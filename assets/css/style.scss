@@ -1,0 +1,18 @@
+---
+---
+/* override theme defaults */
+
+/* Neutral-Variant */
+$NV99: #fffbff;
+$NV95: #ffecef;
+$NV90: #f2dde1;
+$NV80: #d5c2c6;
+$NV70: #b9a7aa;
+$NV60: #9e8c90;
+$NV50: #837377;
+$NV40: #6a5b5e;
+$NV30: #514346;
+$NV20: #3a2d30;
+$NV10: #24191c;
+
+@import "{{ site.theme }}";
