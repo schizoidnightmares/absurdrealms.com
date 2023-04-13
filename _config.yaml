@@ -19,6 +19,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - LICENSE
+  - README.md
 theme: jekyll-theme-schizoid
 
 # jekyll-theme-schizoid config
