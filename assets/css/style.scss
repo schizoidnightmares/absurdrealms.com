@@ -2,17 +2,15 @@
 ---
 /* override theme defaults */
 
-/* Neutral-Variant */
-$NV99: #fffbff;
-$NV95: #ffecef;
-$NV90: #f2dde1;
-$NV80: #d5c2c6;
-$NV70: #b9a7aa;
-$NV60: #9e8c90;
-$NV50: #837377;
-$NV40: #6a5b5e;
-$NV30: #514346;
-$NV20: #3a2d30;
-$NV10: #24191c;
+/* colour theme */
+$color-highlight: #f5ded7; // 90
+$color-highlight-bg: #85736e; // 50
+$color-link: #ffede8; // 95
+$color-primary: #d8c2bc; // 80
+$color-secondary: #bca7a1; // 70
+$color-tertiary: #a08c87; // 60
+$color-border: #6c5b56; // 40
+$color-shade: #3b2d29; // 20
+$color-bg: #251915; // 10
 
 @import "{{ site.theme }}";
