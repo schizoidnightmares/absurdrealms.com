@@ -20,6 +20,8 @@ description: The first anthology of Absurd Realms.
 
 *Anthology I* is an anthology of short stories introducing Schizoid Nightmares' absurdist science fantasy universe of *Absurd Realms*.
 
+{% include toc.html %}
+
 ## Preface
 During 2019 and 2020, I wrote and released seven short stories as part of an earlier version of this anthology. I wrote them canonically detached from one another — they did not share the same fictional universe. In 2021, I decided to rewrite and reincorporate them as part of a single science fantasy universe. I would create many (largely unreleased) iterations of this universe, with each one getting closer to my desired vision. Eventually, I settled on *Absurd Realms*. This anthology is the first entry to the series.
 
@@ -27,3 +29,18 @@ To make it easier for myself and my readers, I divide each short story into scen
 
 ## Stories
 1. "[Flesh Run](/anthology-i/flesh-run/)"
+
+## Availability
+In addition to here, *Anthology I* is also available on:
+- <a href="https://belletristica.com/en/books/52043-schizoid-nightmares-anthology-i/chapter/291629-notice" target="_blank">Belletristica</a>[^1] (read)
+- <a href="https://geeke.app/_/api/book/SCHIZOID-NIGHTMARES-ANTHOLOGY-I" target="_blank">Geeke</a>[^2] (read)
+- <a href="https://schizoidnightmares.medium.com/flesh-run-i-birthing-pool-cb90e42b1d6a" target="_blank">Medium</a> (read & listen)
+- <a href="https://neovel.io/book/15963/EN/schizoid-nightmares-anthology-i" target="_blank">Neovel</a> (read)
+- <a href="https://www.quotev.com/story/15699487/Schizoid-Nightmares-Anthology-I" target="_blank">Quotev</a>[^3] (read)
+- <a href="https://www.royalroad.com/fiction/67408/schizoid-nightmares-anthology-i" target="_blank">Royal Road</a> (read)
+- <a href="https://schizoidnightmares.tumblr.com/post/714430502615056384/flesh-run-i-birthing-pool" target="_blank">Tumblr</a> (read)
+{: .arrow .small}
+
+[^1]: Due to technical limitations, all scene artwork is absent.
+[^2]: You must log in to read.
+[^3]: Due to their content rules, some scene artwork is absent.
