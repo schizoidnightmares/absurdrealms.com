@@ -10,7 +10,7 @@ image_caption: Placeholder artwork (until human-made artwork is available) gener
 
 <div class="table right fixed" markdown=0>
     <table class="small blc infobox">
-        <tr><th colspan=2>"Flesh Run"</th></tr>
+        <tr><th colspan=2>“Flesh Run”</th></tr>
         <tr><td><b>published</b></td><td>TBD<br><b>development:</b><br>April 12, 2023–present</td></tr>
         <tr><td><b>genres</b></td><td>cosmic horror<br>thriller</td></tr>
         <tr><td><b>words</b></td><td>TBD</td></tr>
@@ -25,3 +25,4 @@ image_caption: Placeholder artwork (until human-made artwork is available) gener
 1. "[Birthing Pool](/anthology-i/flesh-run/birthing-pool/)"
 1. "[Milk Fever](/anthology-i/flesh-run/milk-fever/)"
 1. "[Deep Throat](/anthology-i/flesh-run/deep-throat/)"
+1. "[Forbidden Fruit](/anthology-i/flesh-run/forbidden-fruit/)"

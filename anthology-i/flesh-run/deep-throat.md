@@ -6,6 +6,7 @@ number: Third
 story: Flesh Run
 storyURL: anthology-i/flesh-run/
 previous_scene: /anthology-i/flesh-run/milk-fever/
+next_scene: /anthology-i/flesh-run/forbidden-fruit/
 published: May 8, 2023
 image_src: deep_throat_placeholder.jpg
 image_alt: Deep Throat placeholder artwork
