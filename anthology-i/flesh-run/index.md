@@ -26,3 +26,4 @@ image_caption: Placeholder artwork (until human-made artwork is available) gener
 1. "[Milk Fever](/anthology-i/flesh-run/milk-fever/)"
 1. "[Deep Throat](/anthology-i/flesh-run/deep-throat/)"
 1. "[Forbidden Fruit](/anthology-i/flesh-run/forbidden-fruit/)"
+1. "[Rib Cage](/anthology-i/flesh-run/rib-cage/)"

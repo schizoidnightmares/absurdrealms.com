@@ -6,6 +6,7 @@ number: Fourth
 story: Flesh Run
 storyURL: anthology-i/flesh-run/
 previous_scene: /anthology-i/flesh-run/deep-throat/
+next_scene: /anthology-i/flesh-run/rib-cage/
 published: May 12, 2023
 image_src: forbidden_fruit_placeholder.jpg
 image_alt: Forbidden Fruit placeholder artwork
