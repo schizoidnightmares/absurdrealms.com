@@ -6,6 +6,7 @@ number: Fifth
 story: Flesh Run
 storyURL: anthology-i/flesh-run/
 previous_scene: /anthology-i/flesh-run/forbidden-fruit/
+next_scene: /anthology-i/flesh-run/salivary-duct/
 published: May 19, 2023
 image_src: rib_cage_placeholder.jpg
 image_alt: Rib Cage placeholder artwork
