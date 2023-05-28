@@ -30,7 +30,7 @@ To make it easier for myself and my readers, I divide each short story into scen
 ## Stories
 1. "[Flesh Run](/anthology-i/flesh-run/)"
 
-## Accolades
-- Mentioned by Neovel in 2023 as a web novel of the week[^1]
+## Meta
+- Featured as a web novel of the week on Neovel's Instagram in 2023[^1]
 
 [^1]: <a href="https://web.archive.org/web/20230426071831/https%3A%2F%2Fwww.picuki.com%2Fmedia%2F3086680446724662508" target="_blank">Archived from Picuki</a> on the Wayback Machine
