@@ -1,36 +1,24 @@
 ---
 title: Anthology I
-titleDisplay: <i>Anthology I</i>
-description: The first anthology of Absurd Realms.
+description: The first anthology of short stories for Absurd Realms.
+layout: header
+header: anthology-i/anthology_i_header_placeholder_blur.jpg
+header-title: Anthology I
+header-subtitle: April 12, 2023–present
+caption: <a href="/assets/images/anthology-i/anthology_i_header_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/QqG1jOIrrGpH3ZaFKyoh" target="_blank">NightCafe Stable Diffusion v1.5 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
 ---
 
-{% include wip.html data="Anthology I" %}
+*Anthology I* is the first anthology of short stories, covering the dawn of mankind to the rise of industrial civilization in *Absurd Realms*.
 
-<div class="table right fixed" markdown=0>
-    <table class="small blc infobox">
-        <tr><th colspan=2><i>Schizoid Nightmares Anthology I</i></th></tr>
-        <tr><td colspan=2><a href="/assets/images/schizoid_nightmares_anthology_i.jpg" target="_blank"><img width="100%" src="/assets/images/schizoid_nightmares_anthology_i.jpg" alt="Schizoid Nightmares Anthology I cover"></a><br>Cover art by Vlad Momot on July 16, 2019 (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>), as a paid commission for Schizoid Nightmares.</td></tr>
-        <tr><td><b>published</b></td><td>TBD<br><b>development:</b><br>April 12, 2023–present</td></tr>
-        <tr><td><b>genres</b></td><td>absurdist fiction<br>science fantasy<br><b>others:</b><br>cosmic horror<br>thriller</td></tr>
-        <tr><td><b>words</b></td><td>TBD</td></tr>
-        <tr><td><b>availability</b></td><td>Canadian English</td></tr>
-        <tr><td><b>licence</b></td><td><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></td></tr>
-    </table>
+It is currently a work in progress, estimated to be 21% complete.
+
+<img src="/assets/images/anthology-i/anthology_i_med.jpg" alt="Anthology I cover">
+<div class="caption"><p><a href="/assets/images/anthology-i/anthology_i.jpg" target="_blank">Cover art</a> by <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot ⧉</a> as a paid commission</p></div>
+
+## Availability
+<div markdown=0>
+    <a class="feature option" href="/anthology-i/contents/">
+        <img src="/assets/images/ui/book.png">
+        <div><p>Read online</p></div>
+    </a>
 </div>
-
-*Anthology I* is an anthology of short stories introducing Schizoid Nightmares' absurdist science fantasy universe of *Absurd Realms*.
-
-{% include toc.html %}
-
-## Preface
-During 2019 and 2020, I wrote and released seven short stories as part of an earlier version of this anthology. I wrote them canonically detached from one another — they did not share the same fictional universe. In 2021, I decided to rewrite and reincorporate them as part of a single science fantasy universe. I would create many (largely unreleased) iterations of this universe, with each one getting closer to my desired vision. Eventually, I settled on *Absurd Realms*. This anthology is the first entry to the series.
-
-To make it easier for myself and my readers, I divide each short story into scenes of 300–900 words, with paragraphs of 50–150. For short stories, I like to keep them within 1800–5400 words — and for the anthology, 10,800–32,400. I may, of course, at times, go over or under these word counts, whatever feels right.
-
-## Stories
-1. "[Flesh Run](/anthology-i/flesh-run/)"
-
-## Meta
-- Featured as a web novel of the week on Neovel's Instagram in 2023[^1]
-
-[^1]: <a href="https://web.archive.org/web/20230426071831/https%3A%2F%2Fwww.picuki.com%2Fmedia%2F3086680446724662508" target="_blank">Archived from Picuki</a> on the Wayback Machine
