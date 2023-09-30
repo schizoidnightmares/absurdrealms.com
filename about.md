@@ -1,6 +1,6 @@
 ---
 title: About
-description: About Absurd Realms.
+description: About Absurd Realms
 ---
 
 # About

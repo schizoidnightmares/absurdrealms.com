@@ -1,6 +1,6 @@
 ---
 title: “Salivary Duct” now available
-description: Salivary Duct is now available for online reading.
+description: Salivary Duct is now available for online reading
 src: /assets/images/anthology-i/flesh-run/salivary_duct_placeholder_med.jpg
 src-thumb: /assets/images/anthology-i/flesh-run/salivary_duct_placeholder_small.jpg
 alt: Salivary Duct placeholder artwork

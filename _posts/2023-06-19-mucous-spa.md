@@ -1,6 +1,6 @@
 ---
 title: “Mucous Spa” now available
-description: Mucous Spa is now available for online reading.
+description: Mucous Spa is now available for online reading
 src: /assets/images/anthology-i/flesh-run/mucous_spa_placeholder_med.jpg
 src-thumb: /assets/images/anthology-i/flesh-run/mucous_spa_placeholder_small.jpg
 alt: Mucous Spa placeholder artwork

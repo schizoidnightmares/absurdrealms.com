@@ -1,6 +1,6 @@
 ---
 title: Anthology I
-description: The first anthology of short stories for Absurd Realms.
+description: The first anthology of short stories for Absurd Realms
 layout: header
 header: anthology-i/anthology_i_header_placeholder_blur.jpg
 header-title: Anthology I

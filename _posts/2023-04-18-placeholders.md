@@ -1,6 +1,6 @@
 ---
 title: Image placeholders
-description: Image placeholders are now present across the site, including in parts of stories.
+description: Image placeholders are now present across the site, including in parts of stories
 src: /assets/images/header_placeholder_med.jpg
 src-thumb: /assets/images/header_placeholder_small.jpg
 alt: Placeholder artwork

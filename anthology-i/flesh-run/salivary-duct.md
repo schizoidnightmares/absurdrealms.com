@@ -1,6 +1,6 @@
 ---
 title: Salivary Duct - Flesh Run
-description: Sixth scene of Flesh Run.
+description: Sixth scene of Flesh Run
 layout: story
 header: anthology-i/flesh-run/salivary_duct_placeholder_blur.jpg
 header-title: Salivary Duct

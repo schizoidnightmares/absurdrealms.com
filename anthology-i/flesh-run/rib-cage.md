@@ -1,6 +1,6 @@
 ---
 title: Rib Cage - Flesh Run
-description: Fifth scene of Flesh Run.
+description: Fifth scene of Flesh Run
 layout: story
 header: anthology-i/flesh-run/rib_cage_placeholder_blur.jpg
 header-title: Rib Cage

@@ -1,6 +1,6 @@
 ---
 title: Forbidden Fruit - Flesh Run
-description: Fourth scene of Flesh Run.
+description: Fourth scene of Flesh Run
 layout: story
 header: anthology-i/flesh-run/forbidden_fruit_placeholder_blur.jpg
 header-title: Forbidden Fruit

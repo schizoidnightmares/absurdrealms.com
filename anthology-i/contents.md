@@ -1,6 +1,6 @@
 ---
 title: Contents - Anthology I
-description: The contents of Anthology I.
+description: The contents of Anthology I
 return: <i>Anthology I</i>
 return-url: /anthology-i/
 advance: Preface

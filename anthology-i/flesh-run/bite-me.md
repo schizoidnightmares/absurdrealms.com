@@ -1,6 +1,6 @@
 ---
 title: Bite Me - Flesh Run
-description: Eighth scene of Flesh Run.
+description: Eighth scene of Flesh Run
 layout: story
 header: anthology-i/flesh-run/bite_me_placeholder_blur.jpg
 header-title: Bite Me

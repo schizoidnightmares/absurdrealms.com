@@ -42,3 +42,7 @@ A.I. generated placeholders, all released under <a href="https://creativecommons
 #### NightCafe Stable Diffusion XL 0.9
 
 {% include gallery.html author="SDXL09" %}
+
+#### NightCafe Stable Diffusion SDXL 1.0
+
+{% include gallery.html author="SDXL1" %}

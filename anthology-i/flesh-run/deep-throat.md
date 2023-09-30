@@ -1,6 +1,6 @@
 ---
 title: Deep Throat - Flesh Run
-description: Third scene of Flesh Run.
+description: Third scene of Flesh Run
 layout: story
 header: anthology-i/flesh-run/deep_throat_placeholder_blur.jpg
 header-title: Deep Throat

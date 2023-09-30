@@ -1,6 +1,6 @@
 ---
 title: Home
-description: The official website for Absurd Realms.
+description: The official website for Absurd Realms
 layout: header
 header: header_placeholder_blur.jpg
 header-title: Absurd Realms

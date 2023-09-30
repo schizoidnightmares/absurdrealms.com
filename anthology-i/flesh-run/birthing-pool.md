@@ -1,6 +1,6 @@
 ---
 title: Birthing Pool - Flesh Run
-description: Opening scene of Flesh Run.
+description: Opening scene of Flesh Run
 layout: story
 header: anthology-i/flesh-run/birthing_pool_placeholder_blur.jpg
 header-title: Birthing Pool

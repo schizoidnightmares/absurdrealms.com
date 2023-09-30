@@ -1,6 +1,6 @@
 ---
 title: I removed the A.I. generated reading of “Birthing Pool”
-description: Due to my initial misunderstanding of licensing terms, I decided to remove the A.I. generated reading of “Birthing Pool.”
+description: Due to my initial misunderstanding of licensing terms, I decided to remove the A.I. generated reading of “Birthing Pool”
 ---
 
 Due to my initial misunderstanding of licensing terms, I decided to remove the A.I. generated reading of "Birthing Pool," which was a placeholder for a future human-voiced reading anyway.

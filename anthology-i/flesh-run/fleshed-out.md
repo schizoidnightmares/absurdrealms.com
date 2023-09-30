@@ -1,6 +1,6 @@
 ---
 title: Fleshed Out - Flesh Run
-description: Ninth and final scene of Flesh Run.
+description: Ninth and final scene of Flesh Run
 layout: story
 header: anthology-i/flesh-run/fleshed_out_placeholder_blur.jpg
 header-title: Fleshed Out
