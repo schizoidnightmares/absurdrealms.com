@@ -1,6 +1,6 @@
 ---
 title: Adding missing paragraph
-description: Somehow I mistakenly did not include the third last paragrap in my latest release
+description: Somehow, I mistakenly did not include the third last paragraph in my latest release
 date: 2023-09-30 19:00:00
 ---
 
