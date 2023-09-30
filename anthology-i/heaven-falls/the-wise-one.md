@@ -25,6 +25,8 @@ Indeed, my students. The Wise One can hear the thoughts of others and speak thei
 
 The Wise One is the only of his kind — that Man has found — whose thoughts are coherent to us, and ours, to his. With the Wise One’s mind speech and perfect memory, Man could reliably store the experiences of his elders. No more whispering lies.
 
+Leading the Wise One from his mother cave, a group of Man travelled south to Heaven Valley. Guided by Heaven River, Man found Heaven Falls. There, with the help of the Wise One, he built Heaven’s Sanctuary — our home — into the side of the falls. Word spread of the Wise One’s abilities, and others flocked to the sanctuary. It was not long before the roots of civilization took hold.
+
 The falls offer us security… Inside these caverns, we are safe from the savages and creatures of the valley. As much as we would like to, this sanctuary cannot be a home for all. Not every Man believes in the wisdom of the Wise One. The ignorants that feast on the valley — hunting the Primordial’s creatures to exhaustion — reject knowledge. They know only savagery. Most are not welcome here. Their presence would uproot our civilization and destroy it. Without us, all of history is lost.
 
 Before the Wise One left us three decades ago, returning to his mother cave in Wisemount, he bestowed his last gift: written language. True, our scholars had a significant influence on its design. Still, our script would not have been possible absent his wisdom. If not for writing, our civilization would soon be lost to the unrelenting winds of time. Now our knowledge is set in stone… Uh… Quite literally.”
