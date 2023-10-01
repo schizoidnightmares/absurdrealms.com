@@ -24,4 +24,8 @@ It is currently a work in progress.
         <img src="/assets/images/anthology-i/heaven-falls/the_wise_one_placeholder_small.jpg" alt="The Wise One placeholder artwork">
         <div><p>The Wise One</p></div>
     </a>
+    <a class="feature option cropped" href="/anthology-i/heaven-falls/the-primordial/">
+        <img src="/assets/images/anthology-i/heaven-falls/the_primordial_placeholder_small.jpg" alt="The Primordial placeholder artwork">
+        <div><p>The Primordial</p></div>
+    </a>
 </div>

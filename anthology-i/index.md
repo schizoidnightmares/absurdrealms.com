@@ -10,7 +10,7 @@ caption: <a href="/assets/images/anthology-i/anthology_i_header_placeholder.jpg"
 
 *Anthology I* is the first anthology of short stories, covering the dawn of mankind to the rise of industrial civilization in *Absurd Realms*.
 
-It is currently a work in progress, estimated to be 21% complete.
+It is currently a work in progress.
 
 <img src="/assets/images/anthology-i/anthology_i_med.jpg" alt="Anthology I cover">
 <div class="caption"><p><a href="/assets/images/anthology-i/anthology_i.jpg" target="_blank">Cover art</a> by <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot ⧉</a> as a paid commission</p></div>

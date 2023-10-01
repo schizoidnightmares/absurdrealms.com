@@ -8,7 +8,8 @@ header-subtitle: September 30, 2023
 caption: <a href="/assets/images/anthology-i/heaven-falls/the_wise_one_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/RTuaY0LoBw7MuujIibHb" target="_blank">NightCafe Stable Diffusion XL v1.0 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
 return: Heaven Falls
 return-url: /anthology-i/heaven-falls/
-advance: To be continued…
+advance: The Primordial
+advance-url: /anthology-i/heaven-falls/the-primordial/
 ---
 
 “Ten millennia from Emergence… Hundreds of generations… Lost forever in ignorance. Only four have since blossomed in the light of knowledge. Recorded memory… History has known only a century…
