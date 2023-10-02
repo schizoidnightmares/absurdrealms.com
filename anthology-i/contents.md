@@ -28,3 +28,9 @@ advance-url: /anthology-i/preface/
         <div><p>Heaven Falls</p></div>
     </a>
 </div>
+<div markdown=0>
+    <a class="feature option cropped" href="/anthology-i/the-gorge/">
+        <img src="/assets/images/anthology-i/the-gorge/the_gorge_placeholder_small.jpg" alt="The Gorge placeholder artwork">
+        <div><p>The Gorge</p></div>
+    </a>
+</div>

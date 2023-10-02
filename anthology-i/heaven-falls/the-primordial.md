@@ -10,7 +10,8 @@ return: The Wise One
 return-url: /anthology-i/heaven-falls/the-wise-one/
 main: Heaven Falls
 main-url: /anthology-i/heaven-falls/
-advance: To be continued…
+advance: The Valley
+advance-url: /anthology-i/heaven-falls/the-valley/
 ---
 
 After a short pause, the elderly man resumes his oration, “There is another… That without… We would simply not be here… Not even the savages that roam the valley… Or the valley’s savanna… We all come from the Primordial. It is responsible for all life as we know it. Where it came from… What exactly it is… We don’t know. We only know it exists thanks to the Wise One and the collective memories of his kind.
