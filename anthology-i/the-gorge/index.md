@@ -14,7 +14,7 @@ advance: Heaven Sails
 advance-url: /anthology-i/the-gorge/heaven-sails/
 ---
 
-"The Gorge" is the third short story in <a href="/anthology-i/">*Anthology I*</a>. Taking place a millennium after <a href="/anthology-i/heaven-falls/">*Heaven Falls*</a>, it chronicles the expedition of the HSS <i>Heaven Sails</i> from Heaven's Sanctuary to the other side of the world.
+"The Gorge" is the third short story in <a href="/anthology-i/">*Anthology I*</a>. Taking place a millennium after "<a href="/anthology-i/heaven-falls/">Heaven Falls</a>," it chronicles the expedition of the HSS <i>Heaven Sails</i> from Heaven's Sanctuary to the other side of the world.
 
 It is currently a work in progress.
 
