@@ -24,4 +24,8 @@ It is currently a work in progress.
         <img src="/assets/images/anthology-i/the-gorge/heaven_sails_placeholder_small.jpg" alt="Heaven Sails placeholder artwork">
         <div><p>Heaven Sails</p></div>
     </a>
+    <a class="feature option cropped" href="/anthology-i/the-gorge/goodbye-sanctuary/">
+        <img src="/assets/images/anthology-i/the-gorge/goodbye_sanctuary_placeholder_small.jpg" alt="Goodbye Sanctuary placeholder artwork">
+        <div><p>Goodbye Sanctuary</p></div>
+    </a>
 </div>

@@ -2,6 +2,14 @@
   url: https://schizoidnightmares.com/about/
   external: true
 
+- title: Wiki
+  url: https://schizoidnightmares.wiki/
+  external: true
+
+- title: Patreon
+  url: https://www.patreon.com/schizoidnightmares
+  external: true
+
 - title: Terms
   url: https://schizoidnightmares.com/terms/
   external: true

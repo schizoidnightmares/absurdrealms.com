@@ -8,7 +8,8 @@ header-subtitle: October 4, 2023
 caption: <a href="/assets/images/anthology-i/the-gorge/heaven_sails_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/qqcC6iQZ0Cy1yqphd97Z" target="_blank">NightCafe Stable Diffusion XL v1.0 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
 return: The Gorge
 return-url: /anthology-i/the-gorge/
-advance: To be continued…
+advance: Goodbye Sanctuary
+advance-url: /anthology-i/the-gorge/goodbye-sanctuary/
 ---
 
 **121st of First, 1100 A.W. —** Tomorrow is the day I say farewell to the sanctuary I have only ever known. If my mother were still alive, I don’t think she would approve of where her son’s education has led him to. Had I known, I wouldn’t have done so well in my studies. My father, however, might have approved. He would probably see it as the closest I will ever get to being in the Guard. It wasn’t for him to decide my destiny. No matter his service to the Polity, it is for the Council to determine the fate of us all and up to the citizen to see to it that fortune is good. I always wondered what my life would have been outside the Scholars. In a cruel twist of irony, I am about to find out. Be careful what you wish for…
