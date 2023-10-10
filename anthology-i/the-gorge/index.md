@@ -28,4 +28,8 @@ It is currently a work in progress.
         <img src="/assets/images/anthology-i/the-gorge/goodbye_sanctuary_placeholder_small.jpg" alt="Goodbye Sanctuary placeholder artwork">
         <div><p>Goodbye Sanctuary</p></div>
     </a>
+    <a class="feature option cropped" href="/anthology-i/the-gorge/lonely-among-the-clouds/">
+        <img src="/assets/images/anthology-i/the-gorge/lonely_among_the_clouds_placeholder_small.jpg" alt="Lonely Among the Clouds placeholder artwork">
+        <div><p>Lonely Among the Clouds</p></div>
+    </a>
 </div>

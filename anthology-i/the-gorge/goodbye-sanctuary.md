@@ -10,7 +10,8 @@ return: Heaven Sails
 return-url: /anthology-i/the-gorge/heaven-sails/
 main: The Gorge
 main-url: /anthology-i/the-gorge/
-advance: To be continued…
+advance: Lonely Among the Clouds
+advance-url: /anthology-i/the-gorge/lonely-among-the-clouds/
 ---
 
 **123rd of First, 1100 A.W. —** We’re on our second day out. The peninsula has long since disappeared beyond the horizon. The falls once felt inescapable, but yesterday, they became a speck and faded away.
