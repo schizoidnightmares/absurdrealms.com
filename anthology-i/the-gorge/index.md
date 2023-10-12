@@ -32,4 +32,8 @@ It is currently a work in progress.
         <img src="/assets/images/anthology-i/the-gorge/lonely_among_the_clouds_placeholder_small.jpg" alt="Lonely Among the Clouds placeholder artwork">
         <div><p>Lonely Among the Clouds</p></div>
     </a>
+    <a class="feature option cropped" href="/anthology-i/the-gorge/somewhere-beyond/">
+        <img src="/assets/images/anthology-i/the-gorge/somewhere_beyond_placeholder_small.jpg" alt="Somewhere Beyond placeholder artwork">
+        <div><p>Somewhere Beyond</p></div>
+    </a>
 </div>

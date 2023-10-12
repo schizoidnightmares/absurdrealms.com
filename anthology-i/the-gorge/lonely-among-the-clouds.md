@@ -10,7 +10,8 @@ return: Goodbye Sanctuary
 return-url: /anthology-i/the-gorge/goodbye-sanctuary/
 main: The Gorge
 main-url: /anthology-i/the-gorge/
-advance: To be continued…
+advance: Somewhere Beyond
+advance-url: /anthology-i/the-gorge/somewhere-beyond/
 ---
 
 **132nd of First, 1100 A.W. —** It is the 11th day out. Supplies are thinning out faster than the airsail’s cook, Leap Frog, expected. The captain has ordered strict rationing. There has been no land in sight. Each day drags longer. I feel like my body is shambling towards death.
