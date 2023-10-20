@@ -1,6 +1,6 @@
 ---
 title: The Gorge
-description: The story of the founding of Heaven's Sanctuary
+description: The expedition of the HSS Heaven Sails to the other side of the world
 layout: header
 header: anthology-i/the-gorge/the_gorge_placeholder_blur.jpg
 header-title: The Gorge
