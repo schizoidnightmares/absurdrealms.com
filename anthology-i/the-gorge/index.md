@@ -36,4 +36,8 @@ It is currently a work in progress.
         <img src="/assets/images/anthology-i/the-gorge/somewhere_beyond_placeholder_small.jpg" alt="Somewhere Beyond placeholder artwork">
         <div><p>Somewhere Beyond</p></div>
     </a>
+    <a class="feature option cropped" href="/anthology-i/the-gorge/many-eyes/">
+        <img src="/assets/images/anthology-i/the-gorge/many_eyes_placeholder_small.jpg" alt="Many Eyes placeholder artwork">
+        <div><p>Many Eyes</p></div>
+    </a>
 </div>

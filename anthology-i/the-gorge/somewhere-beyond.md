@@ -10,7 +10,8 @@ return: Lonely Among the Clouds
 return-url: /anthology-i/the-gorge/lonely-among-the-clouds/
 main: The Gorge
 main-url: /anthology-i/the-gorge/
-advance: To be continued…
+advance: Many Eyes
+advance-url: /anthology-i/the-gorge/many-eyes/
 ---
 
 **142nd of First, 1100 A.W. —** The 21st and final day over sea. When the captain announced the sighting of land, I felt the whole airsail move. It was like life had suddenly returned to a stiff corpse. “Was I dreaming?” I first worried. Only once my own eyes had seen it did I truly believe. A relief like no other washed over me. I felt rejuvenated and intoxicated with wonder. Could there ever be a more heavenly feeling? We became the most blessed souls in the whole wide world. The crew roared and screamed in absolute joy. We all scrambled to the deck.

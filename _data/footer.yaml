@@ -2,10 +2,6 @@
   url: https://schizoidnightmares.com/about/
   external: true
 
-- title: Wiki
-  url: https://schizoidnightmares.wiki/
-  external: true
-
 - title: Patreon
   url: https://www.patreon.com/schizoidnightmares
   external: true
@@ -13,6 +9,9 @@
 - title: Terms
   url: https://schizoidnightmares.com/terms/
   external: true
+
+- title: RSS
+  url: /feed.xml
 
 - title: Git
   url: https://github.com/schizoidnightmares/absurdrealms.com
