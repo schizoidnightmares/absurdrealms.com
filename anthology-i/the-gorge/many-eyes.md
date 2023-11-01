@@ -10,7 +10,8 @@ return: Somewhere Beyond
 return-url: /anthology-i/the-gorge/somewhere-beyond/
 main: The Gorge
 main-url: /anthology-i/the-gorge/
-advance: To be continued…
+advance: In Hospitality
+advance-url: /anthology-i/the-gorge/in-hospitality/
 ---
 
 **144th of First, 1100 A.W. —** Yesterday, our hope of seeing home again went up in flames. The HSS *Heaven Sails* is no more, a burnt carcass. Some pieces of it are probably on their way to the ocean by now. Maybe someday, a piece will drift back to the shores of Heaven’s Peninsula. Maybe. That’s about all the evidence that will return of us.

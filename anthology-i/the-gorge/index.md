@@ -40,4 +40,8 @@ It is currently a work in progress.
         <img src="/assets/images/anthology-i/the-gorge/many_eyes_placeholder_small.jpg" alt="Many Eyes placeholder artwork">
         <div><p>Many Eyes</p></div>
     </a>
+    <a class="feature option cropped" href="/anthology-i/the-gorge/in-hospitality/">
+        <img src="/assets/images/anthology-i/the-gorge/in_hospitality_placeholder_small.jpg" alt="In Hospitality placeholder artwork">
+        <div><p>In Hospitality</p></div>
+    </a>
 </div>
