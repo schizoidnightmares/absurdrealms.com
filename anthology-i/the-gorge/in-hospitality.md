@@ -10,7 +10,8 @@ return: Many Eyes
 return-url: /anthology-i/the-gorge/many-eyes/
 main: The Gorge
 main-url: /anthology-i/the-gorge/
-advance: To be continued…
+advance: Rediscovery
+advance-url: /anthology-i/the-gorge/rediscovery/
 ---
 
 **146th of First, 1100 A.W. —** Four days now in these caverns. We could have never prepared ourselves for what we would find. There are others here, a whole new people. They look similar to us, but they are smaller, ubiquitously hairless, and have darker skin, like a sappy brown. These people have carved out structures in the caves and the walls of the canyons. While not appearing as sophisticated as us, they still exhibit impressive craftsmanship and metallurgy. If only we spoke the same language, maybe all the bloodshed could have been avoided.

@@ -34,3 +34,9 @@ advance-url: /anthology-i/preface/
         <div><p>The Gorge</p></div>
     </a>
 </div>
+<div markdown=0>
+    <a class="feature option cropped" href="/anthology-i/exodus/">
+        <img src="/assets/images/anthology-i/exodus/exodus_placeholder_small.jpg" alt="Exodus placeholder artwork">
+        <div><p>Exodus</p></div>
+    </a>
+</div>

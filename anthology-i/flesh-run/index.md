@@ -14,7 +14,7 @@ advance: Birthing Pool
 advance-url: /anthology-i/flesh-run/birthing-pool/
 ---
 
-"Flesh Run" is the first short story in <a href="/anthology-i/">*Anthology I*</a>. It takes place in an enclosed hellish dimension of flesh from the perspective of an adult newborn.
+"Flesh Run" is the first short story in *[Anthology I](/anthology-i/)*. It takes place in an enclosed hellish dimension of flesh from the perspective of an adult newborn.
 
 ## Scenes
 <div markdown=0>

@@ -196,6 +196,20 @@
   thumb: /assets/images/anthology-i/the-gorge/in_hospitality_placeholder_small.jpg
   src: /assets/images/anthology-i/the-gorge/in_hospitality_placeholder.jpg
 
+- title: Rediscovery header
+  url: https://creator.nightcafe.studio/creation/h4jPQ7wqzzzTRzrIXxGw
+  author: SDXL1
+  date: 2023
+  thumb: /assets/images/anthology-i/the-gorge/rediscovery_placeholder_small.jpg
+  src: /assets/images/anthology-i/the-gorge/rediscovery_placeholder.jpg
+
+- title: Exodus header
+  url: https://creator.nightcafe.studio/creation/ug6ks9QVNGEOM3MDgD6M
+  author: SDXL1
+  date: 2023
+  thumb: /assets/images/anthology-i/exodus/exodus_placeholder_small.jpg
+  src: /assets/images/anthology-i/exodus/exodus_placeholder.jpg
+
 - title: <i>Anthology III</i> cover
   url: https://creator.nightcafe.studio/creation/ACvK35PYX8qhu5Y8DTrx
   author: SD15

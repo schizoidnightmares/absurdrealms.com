@@ -4,7 +4,7 @@ description: A gallery of images present on the website
 ---
 
 # Gallery
-A gallery of 31 images present on the website
+A gallery of 33 images present on the website
 
 ## Schizoid Nightmares
 Artwork by Schizoid Nightmares (not including placeholders)
