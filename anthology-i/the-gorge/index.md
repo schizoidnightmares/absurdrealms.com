@@ -4,7 +4,7 @@ description: The expedition of the HSS Heaven Sails to the other side of the wor
 layout: header
 header: anthology-i/the-gorge/the_gorge_placeholder_blur.jpg
 header-title: The Gorge
-header-subtitle: October 4, 2023–present
+header-subtitle: October 4–November 4, 2023
 caption: <a href="/assets/images/anthology-i/the-gorge/the_gorge_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/s4qK7NOZ5nVk1PMPJJDG" target="_blank">NightCafe Stable Diffusion XL v1.0 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
 return: The Valley
 return-url: /anthology-i/heaven-falls/the-valley/
