@@ -50,4 +50,4 @@ Faith and superstition are stronger in the Upper City in the valley, where most 
 
 The more I think of home and all the possibilities there, the more I wish I never went on this voyage… Not that I had any choice in the matter. Incentives offered by the Council serve only as insurance. If any of the crew had refused their orders, the Council would ensure their regret for their disloyalty. Slavery may have ended when the last tribes were defeated, but one’s occupation has seldom been one’s choice.
 
-The needs of the Polity override those of the individual. Even before the conquests, the Council ruled successfully since the founding of Heaven’s Sanctuary. It is their continued success, proscribed in the Heaven’s Mandate, that legitimizes their perpetual reign.
+The needs of the Polity override those of the individual. Even before the conquests, the Council ruled successfully since the founding of Heaven’s Sanctuary. It is their continued success, prescribed in the Heaven’s Mandate, that legitimizes their perpetual reign.
