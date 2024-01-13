@@ -18,7 +18,7 @@ It is currently a work in progress.
 ## Availability
 <div markdown=0>
     <a class="feature option" href="/anthology-i/contents/">
-        <img src="/assets/images/ui/book.png">
+        <img src="/assets/images/ui/book-open.png">
         <div><p>Read online</p></div>
     </a>
 </div>

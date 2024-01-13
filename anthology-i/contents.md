@@ -10,7 +10,7 @@ advance-url: /anthology-i/preface/
 # Contents of *Anthology I*
 <div markdown=0>
     <a class="feature option" href="/anthology-i/preface/">
-        <img src="/assets/images/ui/book.png">
+        <img src="/assets/images/ui/book-open.png">
         <div><p>Preface</p></div>
     </a>
 </div>
