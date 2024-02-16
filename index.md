@@ -1,6 +1,7 @@
 ---
 title: Home
 description: The official website for Absurd Realms
+last_modified_at: October 8, 2023
 layout: header
 header: header_placeholder_blur.jpg
 header-title: Absurd Realms
