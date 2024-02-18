@@ -12,7 +12,7 @@ caption: <a href="/assets/images/header_placeholder.jpg" target="_blank">A.I. pl
 <div class="feature" markdown=0>
     <img src="/assets/images/anthology-i/anthology_i_small.jpg" alt="Anthology I cover">
     <div>
-        <h2><i>Schizoid Nightmares Anthology I</i></h2>
+        <h2><i><a href="/anthology-i/">Schizoid Nightmares Anthology I</a></i></h2>
         <p class="date">April 12, 2023–present</p>
         <p>The first anthology of short stories, covering Man's emergence, colonization, and the rise of his industries</p>
         <div><a href="/anthology-i/">read more</a></div>
