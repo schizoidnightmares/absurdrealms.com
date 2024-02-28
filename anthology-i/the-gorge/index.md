@@ -7,10 +7,10 @@ header: anthology-i/the-gorge/the_gorge_placeholder_blur.jpg
 header-title: The Gorge
 header-subtitle: October 4–November 4, 2023
 caption: <a href="/assets/images/anthology-i/the-gorge/the_gorge_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/s4qK7NOZ5nVk1PMPJJDG" target="_blank">NightCafe Stable Diffusion XL v1.0 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: The Valley
-return-url: /anthology-i/heaven-falls/the-valley/
 main: Contents
 main-url: /anthology-i/contents/
+return: The Valley
+return-url: /anthology-i/heaven-falls/the-valley/
 advance: Heaven Sails
 advance-url: /anthology-i/the-gorge/heaven-sails/
 ---

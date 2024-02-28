@@ -6,10 +6,10 @@ header: anthology-i/flesh-run/mucous_spa_placeholder_blur.jpg
 header-title: Mucous Spa
 header-subtitle: June 19, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/mucous_spa_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/7chljPYoEdzkNgXOpmOr" target="_blank">NightCafe Stable Diffusion v1.5 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: Salivary Duct
-return-url: /anthology-i/flesh-run/salivary-duct/
 main: Flesh Run
 main-url: /anthology-i/flesh-run/
+return: Salivary Duct
+return-url: /anthology-i/flesh-run/salivary-duct/
 advance: Bite Me
 advance-url: /anthology-i/flesh-run/bite-me/
 ---

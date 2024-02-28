@@ -6,10 +6,10 @@ header: anthology-i/flesh-run/deep_throat_placeholder_blur.jpg
 header-title: Deep Throat
 header-subtitle: May 8, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/deep_throat_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/UsIEwwLkld5GY198R04z" target="_blank">NightCafe Stable Diffusion v1.5 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: Milk Fever
-return-url: /anthology-i/flesh-run/milk-fever/
 main: Flesh Run
 main-url: /anthology-i/flesh-run/
+return: Milk Fever
+return-url: /anthology-i/flesh-run/milk-fever/
 advance: Forbidden Fruit
 advance-url: /anthology-i/flesh-run/forbidden-fruit/
 ---

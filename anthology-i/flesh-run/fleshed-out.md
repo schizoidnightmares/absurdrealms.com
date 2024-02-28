@@ -6,10 +6,10 @@ header: anthology-i/flesh-run/fleshed_out_placeholder_blur.jpg
 header-title: Fleshed Out
 header-subtitle: September 17, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/fleshed_out_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/2fIoR768ZFI2PrkToIGz" target="_blank">NightCafe Stable Diffusion v1.5 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: Bite Me
-return-url: /anthology-i/flesh-run/bite-me/
 main: Flesh Run
 main-url: /anthology-i/flesh-run/
+return: Bite Me
+return-url: /anthology-i/flesh-run/bite-me/
 advance: Heaven Falls
 advance-url: /anthology-i/heaven-falls/
 ---

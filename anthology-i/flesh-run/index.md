@@ -7,10 +7,10 @@ header: anthology-i/flesh-run/flesh_run_placeholder_blur.jpg
 header-title: Flesh Run
 header-subtitle: April 12–September 17, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/flesh_run_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/XDlpLMvyjx5a1IoOCV5B" target="_blank">NightCafe Stable Diffusion v1.5 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: Preface
-return-url: /anthology-i/preface/
 main: Contents
 main-url: /anthology-i/contents/
+return: Preface
+return-url: /anthology-i/preface/
 advance: Birthing Pool
 advance-url: /anthology-i/flesh-run/birthing-pool/
 ---

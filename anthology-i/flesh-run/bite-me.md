@@ -6,10 +6,10 @@ header: anthology-i/flesh-run/bite_me_placeholder_blur.jpg
 header-title: Bite Me
 header-subtitle: September 8, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/bite_me_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/BRuyOXRG0OyxsEykBo1I" target="_blank">NightCafe Stable Diffusion v1.5 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: Mucous Spa
-return-url: /anthology-i/flesh-run/mucous-spa/
 main: Flesh Run
 main-url: /anthology-i/flesh-run/
+return: Mucous Spa
+return-url: /anthology-i/flesh-run/mucous-spa/
 advance: Fleshed Out
 advance-url: /anthology-i/flesh-run/fleshed-out/
 ---

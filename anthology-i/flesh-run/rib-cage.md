@@ -6,10 +6,10 @@ header: anthology-i/flesh-run/rib_cage_placeholder_blur.jpg
 header-title: Rib Cage
 header-subtitle: May 19, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/rib_cage_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/BtlrGUceyvVlFz6g9XNv" target="_blank">NightCafe Stable Diffusion v1.5 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: Forbidden Fruit
-return-url: /anthology-i/flesh-run/forbidden-fruit/
 main: Flesh Run
 main-url: /anthology-i/flesh-run/
+return: Forbidden Fruit
+return-url: /anthology-i/flesh-run/forbidden-fruit/
 advance: Salivary Duct
 advance-url: /anthology-i/flesh-run/salivary-duct/
 ---

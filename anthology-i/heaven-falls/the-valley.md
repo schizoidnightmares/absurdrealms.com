@@ -6,10 +6,10 @@ header: anthology-i/heaven-falls/the_valley_placeholder_blur.jpg
 header-title: The Valley
 header-subtitle: October 2, 2023
 caption: <a href="/assets/images/anthology-i/heaven-falls/the_valley_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/x91VvmI0OpuEBemZ5AHy" target="_blank">NightCafe Stable Diffusion XL v1.0 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: The Primordial
-return-url: /anthology-i/heaven-falls/the-primordial/
 main: Heaven Falls
 main-url: /anthology-i/heaven-falls/
+return: The Primordial
+return-url: /anthology-i/heaven-falls/the-primordial/
 advance: The Gorge
 advance-url: /anthology-i/the-gorge/
 ---

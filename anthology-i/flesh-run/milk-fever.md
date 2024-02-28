@@ -6,10 +6,10 @@ header: anthology-i/flesh-run/milk_fever_placeholder_blur.jpg
 header-title: Milk Fever
 header-subtitle: May 2, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/milk_fever_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/0Co6EK9h4RVLI0fXGEA5" target="_blank">NightCafe Stable Diffusion v1.5 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: Birthing Pool
-return-url: /anthology-i/flesh-run/birthing-pool/
 main: Flesh Run
 main-url: /anthology-i/flesh-run/
+return: Birthing Pool
+return-url: /anthology-i/flesh-run/birthing-pool/
 advance: Deep Throat
 advance-url: /anthology-i/flesh-run/deep-throat/
 ---

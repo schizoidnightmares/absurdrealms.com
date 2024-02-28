@@ -7,10 +7,10 @@ header: anthology-i/the-gorge/lonely_among_the_clouds_placeholder_blur.jpg
 header-title: Lonely Among the Clouds
 header-subtitle: October 10, 2023
 caption: <a href="/assets/images/anthology-i/the-gorge/lonely_among_the_clouds_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/ojZMUd4DB8B6Fxn2ektm" target="_blank">NightCafe Stable Diffusion XL v1.0 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: Goodbye Sanctuary
-return-url: /anthology-i/the-gorge/goodbye-sanctuary/
 main: The Gorge
 main-url: /anthology-i/the-gorge/
+return: Goodbye Sanctuary
+return-url: /anthology-i/the-gorge/goodbye-sanctuary/
 advance: Somewhere Beyond
 advance-url: /anthology-i/the-gorge/somewhere-beyond/
 ---

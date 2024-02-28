@@ -7,10 +7,10 @@ header: anthology-i/exodus/exodus_placeholder_blur.jpg
 header-title: Exodus
 header-subtitle: February 27, 2024–present
 caption: <a href="/assets/images/anthology-i/exodus/exodus_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/ug6ks9QVNGEOM3MDgD6M" target="_blank">NightCafe Stable Diffusion XL v1.0 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
-return: Rediscovery
-return-url: /anthology-i/the-gorge/rediscovery/
 main: Contents
 main-url: /anthology-i/contents/
+return: Rediscovery
+return-url: /anthology-i/the-gorge/rediscovery/
 advance: The King’s Republic
 advance-url: /anthology-i/exodus/the-kings-republic/
 ---
