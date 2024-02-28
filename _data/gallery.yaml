@@ -210,6 +210,13 @@
   thumb: /assets/images/anthology-i/exodus/exodus_placeholder_small.jpg
   src: /assets/images/anthology-i/exodus/exodus_placeholder.jpg
 
+- title: The King’s Republic header
+  url: https://creator.nightcafe.studio/creation/2Tu5JwEqr2dXJVogYpVR
+  author: SDXL1
+  date: 2023
+  thumb: /assets/images/anthology-i/exodus/the_kings_republic_placeholder_small.jpg
+  src: /assets/images/anthology-i/exodus/the_kings_republic_placeholder.jpg
+
 - title: <i>Anthology III</i> cover
   url: https://creator.nightcafe.studio/creation/ACvK35PYX8qhu5Y8DTrx
   author: SD15
