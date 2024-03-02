@@ -1,6 +1,7 @@
 ---
 title: The Primordial - Heaven Falls
 description: Second scene of Heaven Falls
+last_modified_at: March 2, 2024
 layout: story
 header: anthology-i/heaven-falls/the_primordial_placeholder_blur.jpg
 header-title: The Primordial
@@ -14,13 +15,13 @@ advance: The Valley
 advance-url: /anthology-i/heaven-falls/the-valley/
 ---
 
-After a short pause, the elderly man resumes his oration, “There is another… That without… We would simply not be here… Not even the savages that roam the valley… Or the valley’s savanna… We all come from the Primordial. It is responsible for all life as we know it. Where it came from… What exactly it is… We don’t know. We only know it exists thanks to the Wise One and the collective memories of his kind.
+After a short pause, the elderly man resumes his oration, “There is another, that without we would simply not be here. Not even the savages that roam the valley… Or the valley’s savanna. We all come from the Primordial. It is responsible for all life as we know it. Where it came from… What exactly it is… We don’t know. We only know it exists thanks to the Wise One and the collective memories of his kind.
 
-The Primordial lies everywhere beneath us… Its size… Unimaginable. Within it… An incomprehensible maze of corridors… Constant creation of new bodies… Life. Some call it our mother… A god. I will let you decide on your own, my students… Or you could not decide at all and accept it as a perpetual mystery… I am not here to make up your minds for you… Only to teach you what our people already know.
+The Primordial lies everywhere beneath us. Its size… Unimaginable. Within it… An incomprehensible maze of corridors. A constant creation of new bodies… Life. Some call it our mother… A god. I will let you decide on your own, my students. Or you could not decide at all and accept it as a perpetual mystery. I am not here to make up your minds for you, only to teach you what our people already know.
 
 The Wise One’s kind does not regard the Primordial as a mother-like force. They view it more like an untamed garden of horrors. The first of his kind escaped the Primordial in pairs, all ending up in the caves of Wisemount. Their memories are faded, but they remember their first ancestors went through what seemed to be a series of trials… Perhaps as a way for the Primordial to determine what is worthy of life on the surface.
 
-Some of Man believe that when you die, your body returns to the Primordial… It absorbs your life experiences, learning your successes… And your failures. Using the sum of your memories and the memories of others… It creates new life… Superior life. Many believe this is the cause of Man’s creation, and ultimately all life.”
+Some of Man believe that your body returns to the Primordial when you die. It absorbs your life experiences, learning your successes… And your failures. Using the sum of your memories and the memories of others… It creates new life… Superior life. Many believe this is the cause of Man’s creation, and ultimately all life.”
 
 The old man sits down, resting his back against the stone statue. Several boys raise their fingers, some raising more than others.
 

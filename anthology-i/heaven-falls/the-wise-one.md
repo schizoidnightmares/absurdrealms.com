@@ -1,6 +1,7 @@
 ---
 title: The Wise One - Heaven Falls
 description: Opening scene of Heaven Falls
+last_modified_at: March 2, 2024
 layout: story
 header: anthology-i/heaven-falls/the_wise_one_placeholder_blur.jpg
 header-title: The Wise One
@@ -14,13 +15,13 @@ advance: The Primordial
 advance-url: /anthology-i/heaven-falls/the-primordial/
 ---
 
-“Ten millennia from Emergence… Hundreds of generations… Lost forever in ignorance. Only four have since blossomed in the light of knowledge. Recorded memory… History has known only a century…
+“Ten millennia from Emergence — hundreds of generations lost forever in ignorance. Only four have since blossomed in the light of knowledge. Recorded memory… History has known only a century.
 
-We are the shepherds of wisdom… Each generation grows on the last… Enriched like layers of rock. Before us, Man was ripples in the sands… At the mercy of the eroding winds of time…
+We are the shepherds of wisdom. Each generation grows on the last,  enriched like layers of rock. Before us, Man was ripples in the sands… At the mercy of the eroding winds of time.
 
-Hear this, my students… Civilization cannot survive without recorded history. Illiterate savages know nothing of their past. They pass whispers from the old to the young… Tales that change every time they are sung… But with recorded memory — beginning from the Wise One and now with writing — we tell our stories just as they had begun. The Wise One, though not Man, uplifted us from the barbaric state of forget,” an elderly robed man orates in a grand enclosed cavern, meticulously carved out from the rock.
+Hear this, my students. Civilization cannot survive without recorded history. Illiterate savages know nothing of their past. They pass whispers from the old to the young, tales that change every time they are sung. But with recorded memory — beginning from the Wise One and now with writing — we tell our stories just as they had begun. The Wise One, though not Man, uplifted us from the barbaric state of forget,” an elderly robed man orates in a grand enclosed cavern, meticulously carved out from the rock.
 
-“The Wise One gifted us not only the blessings of history but knowledge unknowable to Man… Knowledge of the Primordial,” the man continues his oration. Behind him rests a tall stone statue of a small canine. Its long, flowing hair is smoothly carved. Sitting upright, it stares up at a round aperture, bathing in the warm ray of sunlight. Burning torches hammered into the rocky walls complement the natural illumination. Around the old man is a flock of boys wearing tan robes identical to his own. They listen on benches carved out from the cavern’s floor.
+“The Wise One gifted us not only the blessings of history but knowledge unknowable to Man — knowledge of the Primordial,” the man continues his oration. Behind him rests a tall stone statue of a small canine. Its long, flowing hair is smoothly carved. Sitting upright, it stares up at a round aperture, bathing in the warm ray of sunlight. Burning torches hammered into the rocky walls complement the natural illumination. Around the old man is a flock of boys wearing tan robes identical to his own. They listen on benches carved out from the cavern’s floor.
 
 “Savage tales offer us no wisdom. They poison our minds with lies about our past — our beginnings. Only the Wise One and our written history can guide us to true knowledge. First discovered in the dark caves of Wisemount, north of the valley, the Wise One came from a race of dogs — the Wisedogs. He, like others of his kind, possesses the remarkable ability of mind speech.
 
@@ -32,4 +33,4 @@ Leading the Wise One from his mother cave, a group of Man travelled south to Hea
 
 The falls offer us security… Inside these caverns, we are safe from the savages and creatures of the valley. As much as we would like to, this sanctuary cannot be a home for all. Not every Man believes in the wisdom of the Wise One. The ignorants that feast on the valley — hunting the Primordial’s creatures to exhaustion — reject knowledge. They know only savagery. Most are not welcome here. Their presence would uproot our civilization and destroy it. Without us, all of history is lost.
 
-Before the Wise One left us three decades ago, returning to his mother cave in Wisemount, he bestowed his last gift: written language. True, our scholars had a significant influence on its design. Still, our script would not have been possible absent his wisdom. If not for writing, our civilization would soon be lost to the unrelenting winds of time. Now our knowledge is set in stone… Uh… Quite literally.”
+Before the Wise One left us three decades ago, returning to his mother cave in Wisemount, he bestowed his last gift: written language. True, our scholars had a significant influence on its design. Still, our script would not have been possible absent his wisdom. If not for writing, our civilization would soon be lost to the unrelenting winds of time. Now, our knowledge is set in stone. Uh… Quite literally.”

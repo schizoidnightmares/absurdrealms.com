@@ -1,6 +1,7 @@
 ---
 title: The Valley - Heaven Falls
 description: Third and final scene of Heaven Falls
+last_modified_at: March 2, 2024
 layout: story
 header: anthology-i/heaven-falls/the_valley_placeholder_blur.jpg
 header-title: The Valley
@@ -22,7 +23,7 @@ Our ancestors lived in the caves for some time before settling south in the vall
 
 If Man emerged ten thousand years ago, it was far longer ago that the Wisedogs emerged themselves. Not even they can remember when they first emerged… Tens of thousands of years, perhaps…
 
-The savages of the valley began as small groups, no larger than a hundred. They lived just as they live now, as nomadic barbarians. After pillaging the resources of one area, they would move to another… To repeat their barbaric cycle of life… There were so few of them that this proved to be sustainable for the valley. For a time…
+The savages of the valley began as small groups, no larger than a hundred. They lived just as they live now, as nomadic barbarians. After pillaging the resources of one area, they would move to another to repeat their barbaric cycle of life. There were so few of them that this proved to be sustainable for the valley. For a time…
 
 As groups interbred, ties of kinship formed between them. Eventually came the first chiefdoms. These groups were and are ruled by members of elite families, with a single chief reigning over them all. Do not confuse these barbaric structures with government. They lacked and still lack law and writing. Many of them don’t even use wheels… Or have any concept of it…
 
