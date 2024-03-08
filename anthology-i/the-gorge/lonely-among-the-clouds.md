@@ -1,5 +1,5 @@
 ---
-title: Lonely Among the Clouds - The Gorge
+title: Lonely Among the Clouds - The Gorge - Anthology I
 description: Third scene of The Gorge
 last_modified_at: January 12, 2024
 layout: story

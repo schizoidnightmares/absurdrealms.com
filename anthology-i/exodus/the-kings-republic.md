@@ -1,5 +1,5 @@
 ---
-title: The King’s Republic - Exodus
+title: The King’s Republic - Exodus - Anthology I
 description: Opening scene of Exodus
 last_modified_at: February 27, 2024
 layout: story

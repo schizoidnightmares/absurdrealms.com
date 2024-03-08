@@ -1,5 +1,5 @@
 ---
-title: Rediscovery - The Gorge
+title: Rediscovery - The Gorge - Anthology I
 description: Seventh scene of The Gorge
 layout: story
 header: anthology-i/the-gorge/rediscovery_placeholder_blur.jpg

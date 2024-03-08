@@ -1,5 +1,5 @@
 ---
-title: Heaven Falls
+title: Heaven Falls - Anthology I
 description: The story of the founding of Heaven's Sanctuary
 last_modified_at: October 2, 2023
 layout: header

@@ -1,5 +1,5 @@
 ---
-title: In Hospitality - The Gorge
+title: In Hospitality - The Gorge - Anthology I
 description: Sixth scene of The Gorge
 layout: story
 header: anthology-i/the-gorge/in_hospitality_placeholder_blur.jpg

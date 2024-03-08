@@ -1,5 +1,5 @@
 ---
-title: Somewhere Beyond - The Gorge
+title: Somewhere Beyond - The Gorge - Anthology I
 description: Fourth scene of The Gorge
 layout: story
 header: anthology-i/the-gorge/somewhere_beyond_placeholder_blur.jpg

@@ -1,5 +1,5 @@
 ---
-title: Many Eyes - The Gorge
+title: Many Eyes - The Gorge - Anthology I
 description: Fifth scene of The Gorge
 layout: story
 header: anthology-i/the-gorge/many_eyes_placeholder_blur.jpg

@@ -1,5 +1,5 @@
 ---
-title: Heaven Sails - The Gorge
+title: Heaven Sails - The Gorge - Anthology I
 description: Opening scene of The Gorge
 layout: story
 header: anthology-i/the-gorge/heaven_sails_placeholder_blur.jpg

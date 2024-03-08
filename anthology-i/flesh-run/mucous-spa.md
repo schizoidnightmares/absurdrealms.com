@@ -1,5 +1,5 @@
 ---
-title: Mucous Spa - Flesh Run
+title: Mucous Spa - Flesh Run - Anthology I
 description: Seventh scene of Flesh Run
 layout: story
 header: anthology-i/flesh-run/mucous_spa_placeholder_blur.jpg

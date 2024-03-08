@@ -1,5 +1,5 @@
 ---
-title: Goodbye Sanctuary - The Gorge
+title: Goodbye Sanctuary - The Gorge - Anthology I
 description: Second scene of The Gorge
 layout: story
 header: anthology-i/the-gorge/goodbye_sanctuary_placeholder_blur.jpg

@@ -1,5 +1,5 @@
 ---
-title: Exodus
+title: Exodus - Anthology I
 description: The rapidly expanding Heaven's Empire threatens the future of the King's Republic
 last_modified_at: February 27, 2024
 layout: header

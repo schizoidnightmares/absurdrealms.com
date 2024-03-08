@@ -1,5 +1,5 @@
 ---
-title: The Gorge
+title: The Gorge - Anthology I
 description: The expedition of the HSS Heaven Sails to the other side of the world
 last_modified_at: November 4, 2023
 layout: header
