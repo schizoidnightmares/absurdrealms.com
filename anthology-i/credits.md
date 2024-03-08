@@ -11,6 +11,7 @@ advance-url: /anthology-i/preface/
 ---
 
 ## Credits
+Direct contributors to *Anthology I*
 
 ### Cover artist
 - <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot</a>
