@@ -1,10 +1,10 @@
 ---
 title: Preface - Anthology I
 description: The preface of Anthology I
-main: <i>Anthology I</i>
-main-url: /anthology-i/
-return: Contents
-return-url: /anthology-i/contents/
+main: Contents
+main-url: /anthology-i/contents/
+return: Credits
+return-url: /anthology-i/credits/
 advance: Flesh Run
 advance-url: /anthology-i/flesh-run/
 ---
