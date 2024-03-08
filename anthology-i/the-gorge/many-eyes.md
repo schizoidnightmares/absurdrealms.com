@@ -5,7 +5,7 @@ layout: story
 header: anthology-i/the-gorge/many_eyes_placeholder_blur.jpg
 header-title: Many Eyes
 header-subtitle: October 26, 2023
-caption: <a href="/assets/images/anthology-i/the-gorge/many_eyes_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/nfvbf0PXVEbBtEq89Tza" target="_blank">NightCafe Stable Diffusion XL v1.0 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
+caption: <a href="/assets/images/anthology-i/the-gorge/many_eyes_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/nfvbf0PXVEbBtEq89Tza" target="_blank">NightCafe Stable Diffusion XL v1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
 main: The Gorge
 main-url: /anthology-i/the-gorge/
 return: Somewhere Beyond

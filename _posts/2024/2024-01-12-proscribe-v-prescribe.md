@@ -13,4 +13,4 @@ The original paragraph doesn't make sense. If the continued success of the Counc
 I have now corrected this typo:
 > "It is their continued success, ***prescribed*** in the Heaven’s Mandate, that legitimizes their perpetual reign."
 
-Despite using and paying for <a href="https://www.grammarly.com/" target="_blank">Grammarly ⧉</a> to proofread my work, it doesn't catch everything. One of its evolving limits is understanding the intent/context behind a statement. With better A.I. in the future, this hopefully will improve. That being said, I cannot ever expect it to replace the quality of a human proofreader. However, it is cheaper and more efficient.
+Despite using and paying for <a href="https://www.grammarly.com/" target="_blank">Grammarly</a> to proofread my work, it doesn't catch everything. One of its evolving limits is understanding the intent/context behind a statement. With better A.I. in the future, this hopefully will improve. That being said, I cannot ever expect it to replace the quality of a human proofreader. However, it is cheaper and more efficient.

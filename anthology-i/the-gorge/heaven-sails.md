@@ -5,7 +5,7 @@ layout: story
 header: anthology-i/the-gorge/heaven_sails_placeholder_blur.jpg
 header-title: Heaven Sails
 header-subtitle: October 4, 2023
-caption: <a href="/assets/images/anthology-i/the-gorge/heaven_sails_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/qqcC6iQZ0Cy1yqphd97Z" target="_blank">NightCafe Stable Diffusion XL v1.0 ⧉</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 ⧉</a>
+caption: <a href="/assets/images/anthology-i/the-gorge/heaven_sails_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/qqcC6iQZ0Cy1yqphd97Z" target="_blank">NightCafe Stable Diffusion XL v1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
 main: Contents
 main-url: /anthology-i/contents/
 return: The Gorge
