@@ -1,11 +1,11 @@
 ---
 title: Home
 description: The official website for Absurd Realms
-last_modified_at: October 8, 2023
+last_modified_at: March 11, 2024
 layout: header
 header: header_placeholder_blur.jpg
 header-title: Absurd Realms
-header-subtitle: 2022–present
+header-subtitle: 2023–present
 caption: <a href="/assets/images/header_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/HR9lDACHYU1AtcC5bOSU" target="_blank">NightCafe Stable Diffusion v1.5</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
 ---
 
@@ -13,7 +13,7 @@ caption: <a href="/assets/images/header_placeholder.jpg" target="_blank">A.I. pl
     <img src="/assets/images/anthology-i/anthology_i_small.jpg" alt="Anthology I cover">
     <div>
         <h2><i><a href="/anthology-i/">Schizoid Nightmares Anthology I</a></i></h2>
-        <p class="date">April 12, 2023–present</p>
+        <p class="cap">April 12, 2023–present</p>
         <p>The first anthology of short stories, covering Man's emergence, colonization, and the rise of his industries</p>
         <div><a href="/anthology-i/">read more</a></div>
     </div>
