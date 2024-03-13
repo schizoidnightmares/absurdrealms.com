@@ -1,4 +1,6 @@
 # absurdrealms.com
+[![Maintainability](https://api.codeclimate.com/v1/badges/191a208124d26cd037ac/maintainability)](https://codeclimate.com/github/schizoidnightmares/absurdrealms.com/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/191a208124d26cd037ac/test_coverage)](https://codeclimate.com/github/schizoidnightmares/absurdrealms.com/test_coverage)
+
 I build my website using [Jekyll](https://jekyllrb.com/)
 
 ## Content warning
