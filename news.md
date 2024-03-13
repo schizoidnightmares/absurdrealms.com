@@ -2,7 +2,7 @@
 title: News
 description: The latest news on Absurd Realms
 layout: news
-pagination: 
+pagination:
     enabled: true
     category: news
 ---
