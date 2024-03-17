@@ -6,7 +6,7 @@ layout: story
 header: anthology-i/heaven-falls/the_primordial_placeholder_blur.jpg
 header-title: The Primordial
 header-subtitle: October 1, 2023
-caption: <a href="/assets/images/anthology-i/heaven-falls/the_primordial_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/x01e49kG3BBrhV7JY2qI" target="_blank">NightCafe Stable Diffusion XL v1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+caption: <a href="/assets/images/anthology-i/heaven-falls/the_primordial_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/x01e49kG3BBrhV7JY2qI" target="_blank">SDXL 1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
 main: Heaven Falls
 main-url: /anthology-i/heaven-falls/
 return: The Wise One

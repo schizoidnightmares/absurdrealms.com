@@ -6,7 +6,7 @@ layout: header
 header: anthology-i/anthology_i_header_placeholder_blur.jpg
 header-title: Anthology I
 header-subtitle: April 12, 2023–present
-caption: <a href="/assets/images/anthology-i/anthology_i_header_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/QqG1jOIrrGpH3ZaFKyoh" target="_blank">NightCafe Stable Diffusion v1.5</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+caption: <a href="/assets/images/anthology-i/anthology_i_header_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/QqG1jOIrrGpH3ZaFKyoh" target="_blank">SD 1.5</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
 ---
 
 *Anthology I* is the first anthology of short stories, covering Man's emergence, colonization, and the rise of his industries.

@@ -6,7 +6,7 @@ layout: story
 header: anthology-i/exodus/the_kings_republic_placeholder_blur.jpg
 header-title: The King’s Republic
 header-subtitle: February 27, 2024
-caption: <a href="/assets/images/anthology-i/exodus/the_kings_republic_placeholder.jpg" target="_blank">A.I. placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/2Tu5JwEqr2dXJVogYpVR" target="_blank">NightCafe Stable Diffusion XL v1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+caption: <a href="/assets/images/anthology-i/exodus/the_kings_republic_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/2Tu5JwEqr2dXJVogYpVR" target="_blank">SDXL 1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
 main: Contents
 main-url: /anthology-i/contents/
 return: Exodus

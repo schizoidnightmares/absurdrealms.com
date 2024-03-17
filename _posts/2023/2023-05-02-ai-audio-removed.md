@@ -1,9 +1,9 @@
 ---
-title: I removed the A.I. generated reading of “Birthing Pool”
-description: Due to my initial misunderstanding of licensing terms, I decided to remove the A.I. generated reading of “Birthing Pool”
+title: I removed the AI generated reading of “Birthing Pool”
+description: Due to my initial misunderstanding of licensing terms, I decided to remove the AI generated reading of “Birthing Pool”
 ---
 
-Due to my initial misunderstanding of licensing terms, I decided to remove the A.I. generated reading of "Birthing Pool," which was a placeholder for a future human-voiced reading anyway.
+Due to my initial misunderstanding of licensing terms, I decided to remove the AI generated reading of "Birthing Pool," which was a placeholder for a future human-voiced reading anyway.
 
 I paid for the premium service of ElevenLabs, which includes commercial use rights. Unfortunately, the same permission applied to me does not extend to others (i.e. I cannot sub-license it for others to use).
 
