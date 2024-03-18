@@ -1,3 +1,16 @@
+- title: <i>Absurd Realms</i> icon
+  author: SN
+  date: 2023
+  thumb: /assets/images/ar_icon_small.png
+  src: /assets/images/ar_icon.png
+
+- title: <i>Absurd Realms</i> header
+  url: https://creator.nightcafe.studio/creation/HR9lDACHYU1AtcC5bOSU
+  author: AI
+  date: SD 1.5
+  thumb: /assets/images/header_placeholder_small.jpg
+  src: /assets/images/header_placeholder.jpg
+
 - title: <i>The Flippers</i> cover
   author: Vlad Momot
   date: 2019
@@ -16,6 +29,20 @@
   thumb: /assets/images/parallel/parallel_small.jpg
   src: /assets/images/parallel/parallel.jpg
 
+- title: <i>Anthology I</i> header
+  url: https://creator.nightcafe.studio/creation/QqG1jOIrrGpH3ZaFKyoh
+  author: AI
+  date: SD 1.5
+  thumb: /assets/images/anthology-i/anthology_i_header_placeholder_small.jpg
+  src: /assets/images/anthology-i/anthology_i_header_placeholder.jpg
+
+- title: <i>Anthology II</i> cover
+  url: https://creator.nightcafe.studio/creation/WJYA8EoEVhw5iblmInv0
+  author: AI
+  date: SDXL 0.9
+  thumb: /assets/images/anthology-ii/anthology_ii_ai_small.jpg
+  src: /assets/images/anthology-ii/anthology_ii_ai.jpg
+
 - title: <i>Anthology II</i> cover
   author: AID
   date: 2023
@@ -23,209 +50,182 @@
   src: /assets/images/anthology-ii/anthology_ii_placeholder.jpg
 
 - title: <i>Anthology III</i> cover
+  url: https://creator.nightcafe.studio/creation/ACvK35PYX8qhu5Y8DTrx
+  author: AI
+  date: SD 1.0
+  thumb: /assets/images/anthology-iii/anthology_iii_ai_small.jpg
+  src: /assets/images/anthology-iii/anthology_iii_ai.jpg
+
+- title: <i>Anthology III</i> cover
   author: AID
   date: 2023
   thumb: /assets/images/anthology-iii/anthology_iii_placeholder_small.jpg
   src: /assets/images/anthology-iii/anthology_iii_placeholder.jpg
 
-- title: <i>Absurd Realms</i> header
-  url: https://creator.nightcafe.studio/creation/HR9lDACHYU1AtcC5bOSU
-  author: SD15
-  date: 2023
-  thumb: /assets/images/header_placeholder_small.jpg
-  src: /assets/images/header_placeholder.jpg
-
-- title: <i>Anthology I</i> header
-  url: https://creator.nightcafe.studio/creation/QqG1jOIrrGpH3ZaFKyoh
-  author: SD15
-  date: 2023
-  thumb: /assets/images/anthology-i/anthology_i_header_placeholder_small.jpg
-  src: /assets/images/anthology-i/anthology_i_header_placeholder.jpg
-
 - title: Flesh Run header
   url: https://creator.nightcafe.studio/creation/XDlpLMvyjx5a1IoOCV5B
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/flesh-run/flesh_run_placeholder_small.jpg
   src: /assets/images/anthology-i/flesh-run/flesh_run_placeholder.jpg
 
-- title: <i>Anthology II</i> cover
-  url: https://creator.nightcafe.studio/creation/WJYA8EoEVhw5iblmInv0
-  author: SDXL09
-  date: 2023
-  thumb: /assets/images/anthology-ii/anthology_ii_ai_small.jpg
-  src: /assets/images/anthology-ii/anthology_ii_ai.jpg
-
 - title: Birthing Pool header
   url: https://creator.nightcafe.studio/creation/CDxGVor8kqRB81q3qd1n
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/flesh-run/birthing_pool_placeholder_small.jpg
   src: /assets/images/anthology-i/flesh-run/birthing_pool_placeholder.jpg
 
 - title: Milk Fever header
   url: https://creator.nightcafe.studio/creation/0Co6EK9h4RVLI0fXGEA5
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/flesh-run/milk_fever_placeholder_small.jpg
   src: /assets/images/anthology-i/flesh-run/milk_fever_placeholder.jpg
 
 - title: Deep Throat header
   url: https://creator.nightcafe.studio/creation/UsIEwwLkld5GY198R04z
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/flesh-run/deep_throat_placeholder_small.jpg
   src: /assets/images/anthology-i/flesh-run/deep_throat_placeholder.jpg
 
 - title: Forbidden Fruit header
   url: https://creator.nightcafe.studio/creation/KRBr1KH949N8yJU6uNag
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/flesh-run/forbidden_fruit_placeholder_small.jpg
   src: /assets/images/anthology-i/flesh-run/forbidden_fruit_placeholder.jpg
 
 - title: Rib Cage header
   url: https://creator.nightcafe.studio/creation/BtlrGUceyvVlFz6g9XNv
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/flesh-run/rib_cage_placeholder_small.jpg
   src: /assets/images/anthology-i/flesh-run/rib_cage_placeholder.jpg
 
 - title: Salivary Duct header
   url: https://creator.nightcafe.studio/creation/ZIytUYQA7l0KantwvFv7
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/flesh-run/salivary_duct_placeholder_small.jpg
   src: /assets/images/anthology-i/flesh-run/salivary_duct_placeholder.jpg
 
 - title: Mucous Spa header
   url: https://creator.nightcafe.studio/creation/7chljPYoEdzkNgXOpmOr
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/flesh-run/mucous_spa_placeholder_small.jpg
   src: /assets/images/anthology-i/flesh-run/mucous_spa_placeholder.jpg
 
 - title: Bite Me header
   url: https://creator.nightcafe.studio/creation/BRuyOXRG0OyxsEykBo1I
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/flesh-run/bite_me_placeholder_small.jpg
   src: /assets/images/anthology-i/flesh-run/bite_me_placeholder.jpg
 
 - title: Fleshed Out header
   url: https://creator.nightcafe.studio/creation/2fIoR768ZFI2PrkToIGz
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/flesh-run/fleshed_out_placeholder_small.jpg
   src: /assets/images/anthology-i/flesh-run/fleshed_out_placeholder.jpg
 
 - title: Heaven Falls header
   url: https://creator.nightcafe.studio/creation/J1SsnctcQcV9A6eme82l
-  author: SD15
-  date: 2023
+  author: AI
+  date: SD 1.5
   thumb: /assets/images/anthology-i/heaven-falls/heaven_falls_placeholder_small.jpg
   src: /assets/images/anthology-i/heaven-falls/heaven_falls_placeholder.jpg
 
 - title: The Wise One header
   url: https://creator.nightcafe.studio/creation/RTuaY0LoBw7MuujIibHb
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/heaven-falls/the_wise_one_placeholder_small.jpg
   src: /assets/images/anthology-i/heaven-falls/the_wise_one_placeholder.jpg
 
 - title: The Primordial header
   url: https://creator.nightcafe.studio/creation/x01e49kG3BBrhV7JY2qI
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/heaven-falls/the_primordial_placeholder_small.jpg
   src: /assets/images/anthology-i/heaven-falls/the_primordial_placeholder.jpg
 
 - title: The Valley header
   url: https://creator.nightcafe.studio/creation/x91VvmI0OpuEBemZ5AHy
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/heaven-falls/the_valley_placeholder_small.jpg
   src: /assets/images/anthology-i/heaven-falls/the_valley_placeholder.jpg
 
 - title: The Gorge header
   url: https://creator.nightcafe.studio/creation/s4qK7NOZ5nVk1PMPJJDG
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/the-gorge/the_gorge_placeholder_small.jpg
   src: /assets/images/anthology-i/the-gorge/the_gorge_placeholder.jpg
 
 - title: Heaven Sails header
   url: https://creator.nightcafe.studio/creation/qqcC6iQZ0Cy1yqphd97Z
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/the-gorge/heaven_sails_placeholder_small.jpg
   src: /assets/images/anthology-i/the-gorge/heaven_sails_placeholder.jpg
 
 - title: Goodbye Sanctuary header
   url: https://creator.nightcafe.studio/creation/i5u3UBqXxBAg9fsMfcpD
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/the-gorge/goodbye_sanctuary_placeholder_small.jpg
   src: /assets/images/anthology-i/the-gorge/goodbye_sanctuary_placeholder.jpg
 
 - title: Lonely Among the Clouds header
   url: https://creator.nightcafe.studio/creation/ojZMUd4DB8B6Fxn2ektm
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/the-gorge/lonely_among_the_clouds_placeholder_small.jpg
   src: /assets/images/anthology-i/the-gorge/lonely_among_the_clouds_placeholder.jpg
 
 - title: Somewhere Beyond header
   url: https://creator.nightcafe.studio/creation/uELaN3Y09odJX3GUReUq
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/the-gorge/somewhere_beyond_placeholder_small.jpg
   src: /assets/images/anthology-i/the-gorge/somewhere_beyond_placeholder.jpg
 
 - title: Many Eyes header
   url: https://creator.nightcafe.studio/creation/nfvbf0PXVEbBtEq89Tza
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/the-gorge/many_eyes_placeholder_small.jpg
   src: /assets/images/anthology-i/the-gorge/many_eyes_placeholder.jpg
 
 - title: In Hospitality header
   url: https://creator.nightcafe.studio/creation/y9C3ZvJyye8qDWh50S7a
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/the-gorge/in_hospitality_placeholder_small.jpg
   src: /assets/images/anthology-i/the-gorge/in_hospitality_placeholder.jpg
 
 - title: Rediscovery header
   url: https://creator.nightcafe.studio/creation/h4jPQ7wqzzzTRzrIXxGw
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/the-gorge/rediscovery_placeholder_small.jpg
   src: /assets/images/anthology-i/the-gorge/rediscovery_placeholder.jpg
 
 - title: Exodus header
   url: https://creator.nightcafe.studio/creation/ug6ks9QVNGEOM3MDgD6M
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/exodus/exodus_placeholder_small.jpg
   src: /assets/images/anthology-i/exodus/exodus_placeholder.jpg
 
 - title: The King’s Republic header
   url: https://creator.nightcafe.studio/creation/2Tu5JwEqr2dXJVogYpVR
-  author: SDXL1
-  date: 2023
+  author: AI
+  date: SDXL 1.0
   thumb: /assets/images/anthology-i/exodus/the_kings_republic_placeholder_small.jpg
   src: /assets/images/anthology-i/exodus/the_kings_republic_placeholder.jpg
-
-- title: <i>Anthology III</i> cover
-  url: https://creator.nightcafe.studio/creation/ACvK35PYX8qhu5Y8DTrx
-  author: SD15
-  date: 2023
-  thumb: /assets/images/anthology-iii/anthology_iii_ai_small.jpg
-  src: /assets/images/anthology-iii/anthology_iii_ai.jpg
-
-- title: <i>Absurd Realms</i> icon
-  author: SN
-  date: 2023
-  thumb: /assets/images/ar_icon_small.png
-  src: /assets/images/ar_icon.png
