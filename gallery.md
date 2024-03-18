@@ -5,7 +5,7 @@ last_modified_at: March 18, 2024
 ---
 
 # Gallery
-A gallery of 34 images present on the website
+A gallery of the images present on the website (currently 34)
 
 - [Schizoid Nightmares](#schizoid-nightmares)
 - [Vlad Momot](#vlad-momot)
