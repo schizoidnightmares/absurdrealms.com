@@ -1,7 +1,7 @@
 ---
 title: The King’s Republic - Exodus - Anthology I
 description: Opening scene of Exodus
-last_modified_at: February 27, 2024
+last_modified_at: March 26, 2024
 layout: story
 header: anthology-i/exodus/the_kings_republic_placeholder_blur.jpg
 header-title: The King’s Republic
@@ -44,9 +44,9 @@ The father returns to his seat, allowing his son to stand before the Assembly. T
 
 “Members of the Assembly — I give thanks to my father, His Majesty Sun King the First, for inviting me to speak before you. Permit me to appeal to tradition. Our civilization was built because a group of men bravely left their homeland in search of the unknown. When they discovered and settled this island, they again departed in search of greater ground, ultimately returning with new friends, who like them, had left their native land. Together, they became who we are now. Today, the world is far less a mystery than it was then. Since before I became a young man, I studied the known geography and recorded history of our world. When—if you permit me to depart, I will not be sailing into darkness. I will leave with the best of our warriors. They will accompany me at all times on my quest. We will travel where countless have before. True, there are risks, but I must think beyond myself. There is greater risk to everyone if I should stay.
 
-For many, I gather, Heaven’s Empire seems all too distant — regarded as a mere acquaintance for trade. By the time they do feel close enough to home to become a threat, it will be too late to act.
+“For many, I gather, Heaven’s Empire seems all too distant — regarded as a mere acquaintance for trade. By the time they do feel close enough to home to become a threat, it will be too late to act.
 
-No obstacle has impeded them. The Empire has conquered vast, inhospitable deserts, cold, rugged mountains, deep forests, and hostile jungles. They are conquering the Grand Savanna as we speak. They have conquered every people they have shared a border with. The badlands west of the Savanna will not pose much of a challenge, nor will the canyons beyond. That leaves only a small stretch of ocean to our island, which, since they regularly sail across the Far Ocean on the other side of the mainland, will have no stopping them. So, you see, my fellow Islanders, they will come and conquer us — unless we stop them first.”
+“No obstacle has impeded them. The Empire has conquered vast, inhospitable deserts, cold, rugged mountains, deep forests, and hostile jungles. They are conquering the Grand Savanna as we speak. They have conquered every people they have shared a border with. The badlands west of the Savanna will not pose much of a challenge, nor will the canyons beyond. That leaves only a small stretch of ocean to our island, which, since they regularly sail across the Far Ocean on the other side of the mainland, will have no stopping them. So, you see, my fellow Islanders, they will come and conquer us — unless we stop them first.”
 
 The son lowers to his seat as quiet whispers echo around the rotunda. One of the assemblymen politely requests to delay the vote so that further questions may be addressed to the son, which the father grants. The same assemblyman stands to speak, “Members of the Assembly — many have spoken today — most notably: His Most Gracious Majesty, His Honourable Highness, Wise Beard the Ninth, Good Ear the Eleventh, and Rigid Back the Third. I rarely speak to you. My name is Tall Column the Sixth. I humbly requested a delay so that any of you may ask further questions, but mainly to ask my own. I address this to His Honourable Highness, how do you intend to stop the Empire from conquering us? Surely, we cannot compete in numbers. Our loyal warriors of the Watchmen are well-trained but, respectfully, cannot match the resources and experience of Heaven’s Martials.”
 
@@ -56,11 +56,11 @@ Loud whispers interrupt the son before the father raises his hand, rendering sil
 
 “—it is to divide them. An empire divided will not focus its wars on gaining new territories. It will be too busy trying to hold onto old ones. How can they be divided, you may ask? The Empire is already stretched thin. Their technology outmatches the primitive tribes they have fought. Their strategies demoralize and destroy the cultures they enslave.
 
-The key weakness is their economy, which relies on slavery. The slave population far outnumbers the free population. If we instigate even one rebellion among those enslaved in the Savanna, unrest will spread. Our warriors can train the slaves. It doesn’t even matter if the first rebellion fails. Word will spread. Slaves across the Empire will learn that they can rebel.
+“The key weakness is their economy, which relies on slavery. The slave population far outnumbers the free population. If we instigate even one rebellion among those enslaved in the Savanna, unrest will spread. Our warriors can train the slaves. It doesn’t even matter if the first rebellion fails. Word will spread. Slaves across the Empire will learn that they can rebel.
 
-The Empire’s reach is on a thin thread. With the right amount of tension, it will snap. The slaves will rebel with the right encouragement. They have a choice between working themselves to death for their masters or fighting to the death for their freedom. I wager they will choose to fight.
+“The Empire’s reach is on a thin thread. With the right amount of tension, it will snap. The slaves will rebel with the right encouragement. They have a choice between working themselves to death for their masters or fighting to the death for their freedom. I wager they will choose to fight.
 
-Once enough learn of this choice, you will have a divided empire. The slaves will build kingdoms of their own, at least just as bad or maybe even worse than their masters. These kingdoms will fight amongst themselves. The Empire will focus on trying to regain them, likely a futile effort. Meanwhile, we will be ignored or, at best, seen as a distant trade partner. The badlands and canyons are not attractive locations to expand into — at least not for a long while. Our support for rebellion may even grant us favour among the new kingdoms. They will regard each other or the Empire as their enemy.”
+“Once enough learn of this choice, you will have a divided empire. The slaves will build kingdoms of their own, at least just as bad or maybe even worse than their masters. These kingdoms will fight amongst themselves. The Empire will focus on trying to regain them, likely a futile effort. Meanwhile, we will be ignored or, at best, seen as a distant trade partner. The badlands and canyons are not attractive locations to expand into — at least not for a long while. Our support for rebellion may even grant us favour among the new kingdoms. They will regard each other or the Empire as their enemy.”
 
 After the son finishes, Rigid Back quickly soars to speak, “Members of the Assembly — If His Highness’ plan should fail, that will seal us an enemy of the Empire! Our hopes of more trade will die! They will surely seek to conquer us and destroy us completely!”
 
