@@ -15,7 +15,6 @@
   font-style: italic;
   src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
 }
-
 // Open Sans font face
 @font-face {
   font-display: swap;
@@ -47,12 +46,10 @@ body {
   margin: 0;
 }
 
-h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks {
-  a, a:active, a:visited {
-    text-decoration: none;
-    &[target="_blank"]::after { content: none; }
-    &[href]:where([href^="http"])::after { content: none; }
-  }
+:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks) :is(a, a:active, a:visited), a:has(img) {
+  text-decoration: none;
+  &[target="_blank"]::after { content: none; }
+  &[href]:where([href^="http"])::after { content: none; }
 }
 h1, h2, h3 {
   font-family: Lora, serif;
