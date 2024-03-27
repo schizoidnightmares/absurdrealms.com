@@ -10,7 +10,7 @@ caption: <a href="/assets/images/header_placeholder.jpg" target="_blank">AI plac
 ---
 
 <div class="feature" markdown=0>
-    <img src="/assets/images/anthology-i/anthology_i_small.jpg" alt="Anthology I cover">
+    <a href="/anthology-i/"><img src="/assets/images/anthology-i/anthology_i_small.jpg" alt="Anthology I cover"></a>
     <div>
         <h2><i><a href="/anthology-i/">Schizoid Nightmares Anthology I</a></i></h2>
         <p class="cap">April 12, 2023–present</p>

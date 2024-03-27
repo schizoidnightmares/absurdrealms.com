@@ -90,7 +90,10 @@ a, a:active, a:visited {
   // external link
   &[href]:where([href^="http"])::after { content: ' ⧉'; }
 }
-a:hover { color: $color-primary; }
+a:hover {
+  color: $color-primary;
+  img { opacity: .75; }
+}
 
 ul, ol {
   padding-inline-start: 6%;
@@ -264,7 +267,6 @@ code { white-space: nowrap; }
     max-width: 150px;
     width: min-content;
   }
-  a:hover img { opacity: .75; }
   img {
     max-height: 150px;
     max-width: 150px;
@@ -300,7 +302,6 @@ code { white-space: nowrap; }
     width: fit-content;
     &[target="_blank"]::after { content: none; }
     &[href]:where([href^="http"])::after { content: none; }
-    &:hover img { opacity: .75; }
     p { margin: 0; }
     img, &.cropped img {
       height: 50px;

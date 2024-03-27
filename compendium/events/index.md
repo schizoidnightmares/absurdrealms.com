@@ -13,7 +13,7 @@ return-url: /compendium/
 An **event** is a moment in time — grouped into eras.
 
 <div class="feature cropped" markdown=0>
-    <img src="/assets/images/compendium/events/genesis_placeholder_small.jpg" alt="Genesis placeholder">
+    <a href="/compendium/events/genesis/"><img src="/assets/images/compendium/events/genesis_placeholder_small.jpg" alt="Genesis placeholder"></a>
     <div>
         <h2 id="genesis"><a href="/compendium/events/genesis/">Genesis</a></h2>
         <p class="cap">2.74 billion–10,001 BW</p>
