@@ -1,13 +1,13 @@
 ---
 title: Locations - Compendium
 description: Locations in Absurd Realms
-last_modified_at: March 24, 2024
+last_modified_at: March 27, 2024
 return: Compendium
 return-url: /compendium/
 ---
 
 # Locations
-8 articles in total
+13 articles in total
 {: .cap}
 
 A **location** is a defined area or point in space — listed by form.
@@ -16,13 +16,17 @@ A **location** is a defined area or point in space — listed by form.
   - [Filaments](#filaments)
   - [Galaxies](#galaxies)
   - [Galaxy groups and clusters](#galaxy-groups-and-clusters)
+  - [Moons](#moons)
+  - [Planetary systems](#planetary-systems)
+  - [Planets](#planets)
   - [Pockets](#pockets)
   - [Spiral arms](#spiral-arms)
+  - [Stars](#stars)
   - [Superclusters](#superclusters)
 {: .toc}
 
 ## Space
-1 article, 8 in total
+1 article, 13 in total
 {: .cap}
 
 - [Universe](/compendium/locations/universe/)
@@ -49,12 +53,34 @@ A **location** is a defined area or point in space — listed by form.
 - [Alpha Group](/compendium/locations/alpha-group/)
 {: .plainlinks}
 
+### Moons
+1 article
+{: .cap}
+
+- [Moon](/compendium/locations/moon/)
+{: .plainlinks}
+
+### Planetary systems
+1 article
+{: .cap}
+
+- [Alpha System](/compendium/locations/alpha-system/)
+{: .plainlinks}
+
+### Planets
+1 article
+{: .cap}
+
+- [World](/compendium/locations/world/)
+{: .plainlinks}
+
 ### [Pockets](/compendium/locations/pocket/)
-2 articles
+3 articles
 {: .cap}
 
 - [Cosmos](/compendium/locations/cosmos/)
 - [Pocket](/compendium/locations/pocket/)
+- [Primoria](/compendium/locations/primoria/)
 {: .plainlinks}
 
 ### Spiral arms
@@ -62,6 +88,13 @@ A **location** is a defined area or point in space — listed by form.
 {: .cap}
 
 - [Alpha Arm](/compendium/locations/alpha-arm/)
+{: .plainlinks}
+
+### Stars
+1 article
+{: .cap}
+
+- [Sun](/compendium/locations/sun/)
 {: .plainlinks}
 
 ### Superclusters

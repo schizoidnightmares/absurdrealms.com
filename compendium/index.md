@@ -1,7 +1,6 @@
 ---
 title: Compendium - Compendium
 description: Learn more about the world of Absurd Realms
-last_modified_at: March 24, 2024
 ---
 
 # Compendium
