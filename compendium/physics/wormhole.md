@@ -12,4 +12,4 @@ return-url: /compendium/physics/
 Extradimensional tunnel
 {: .cap}
 
-A **wormhole** is an extradimensional tunnel joining two separate points in space. It is the only means of travelling between [pockets](/compendium/locations/pocket/). Wormholes are exclusively unidirectional (one-way travel only).
+A **wormhole** is an extradimensional tunnel joining two separate points in space. It's the only means of travelling between [pockets](/compendium/locations/pocket/). Wormholes are exclusively unidirectional (one-way travel only).

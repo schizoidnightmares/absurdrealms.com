@@ -1,7 +1,7 @@
 ---
 title: Genesis - Events - Compendium
 description: Events before Man
-last_modified_at: March 27, 2024
+last_modified_at: March 31, 2024
 layout: header
 header: compendium/events/genesis_placeholder_blur.jpg
 header-title: Genesis
@@ -25,6 +25,12 @@ return-url: /compendium/events/
 - [Middle Genesis](#middle-genesis)
   - [1.36 billion BW](#136-billion-bw)
   - [1.04 billion BW](#104-billion-bw)
+- [Late Genesis](#late-genesis)
+  - [739 million BW](#739-million-bw)
+  - [715 million BW](#715-million-bw)
+  - [678 million BW](#678-million-bw)
+  - [483 million BW](#483-million-bw)
+  - [461 million BW](#461-million-bw)
 {: .toc}
 
 ## Early Genesis
@@ -74,3 +80,33 @@ Middle Genesis was the intermediate period of Genesis.
 ### 1.04 billion BW
 
 - [Primoria](/compendium/locations/primoria/) formed from the [Cosmos](/compendium/locations/cosmos/).
+
+## Late Genesis
+914 million–10,001 BW
+{: .cap}
+
+Late Genesis was the last period of Genesis.
+
+### 739 million BW
+
+- The [Primordials](/compendium/life/primordials/) emerged in [Primoria](/compendium/locations/primoria/).
+
+### 715 million BW
+
+- The [Primordial](/compendium/creatures/primordial/) was born in Primoria.
+
+### 678 million BW
+
+- The Primordial colonized the [World](/compendium/locations/world/)'s upper mantle.
+
+### 483 million BW
+
+- The Primordial formed the [World's ocean](/compendium/locations/world-ocean/).
+
+### 461 million BW
+
+- The Primordial formed the [Westlands](/compendium/locations/westlands/).
+  - The [Main Westlands](/compendium/locations/main-westlands/) formed.
+    - The [Westland Belt](/compendium/locations/westland-belt/) formed with its [central](/compendium/locations/central-belt/), [northern](/compendium/locations/northern-belt/), and [southern](/compendium/locations/southern-belt/) geographic regions.
+    - The [Wise Mountains](/compendium/locations/wise-mountains/) formed with its peak, [Wisemount](/compendium/locations/wisemount/).
+    - The [Heaven Lands](/compendium/locations/heaven-lands/) formed with its [valley](/compendium/locations/heaven-valley/) and [peninsula](/compendium/locations/heavens-peninsula/).

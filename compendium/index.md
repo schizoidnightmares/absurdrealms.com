@@ -1,6 +1,7 @@
 ---
 title: Compendium - Compendium
 description: Learn more about the world of Absurd Realms
+last_modified_at: March 31, 2024
 ---
 
 # Compendium
@@ -31,5 +32,13 @@ The **compendium** is an official in-universe reference guide to *Absurd Realms*
     <a class="feature option" href="/compendium/physics/">
         <img src="/assets/images/ui/bolt.png">
         <div><p>Physics</p></div>
+    </a>
+    <a class="feature option" href="/compendium/life/">
+        <img src="/assets/images/ui/dna.png">
+        <div><p>Life</p></div>
+    </a>
+    <a class="feature option" href="/compendium/creatures/">
+        <img src="/assets/images/ui/spider.png">
+        <div><p>Creatures</p></div>
     </a>
 </div>
