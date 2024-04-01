@@ -6,7 +6,7 @@ layout: header
 header: compendium/events/genesis_placeholder_blur.jpg
 header-title: Genesis
 header-subtitle: 2.74 billion–10,001 BW
-caption: <a href="/assets/images/compendium/events/genesis_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/p8Ur1u71VRDNyCDxJslE" target="_blank">Juggernaut XL 8.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+caption: <a href="/assets/images/compendium/events/genesis_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/p8Ur1u71VRDNyCDxJslE" target="_blank">Juggernaut XL 8.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
 main: Compendium
 main-url: /compendium/
 return: Events

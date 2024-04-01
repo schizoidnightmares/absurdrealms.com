@@ -5,7 +5,7 @@ layout: story
 header: anthology-i/flesh-run/bite_me_placeholder_blur.jpg
 header-title: Bite Me
 header-subtitle: September 8, 2023
-caption: <a href="/assets/images/anthology-i/flesh-run/bite_me_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated using <a href="https://creator.nightcafe.studio/creation/BRuyOXRG0OyxsEykBo1I" target="_blank">SD 1.5</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+caption: <a href="/assets/images/anthology-i/flesh-run/bite_me_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/BRuyOXRG0OyxsEykBo1I" target="_blank">SD 1.5</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
 main: Flesh Run
 main-url: /anthology-i/flesh-run/
 return: Mucous Spa
