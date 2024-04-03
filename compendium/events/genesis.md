@@ -1,7 +1,7 @@
 ---
 title: Genesis - Events - Compendium
 description: Events before Man
-last_modified_at: March 31, 2024
+last_modified_at: April 3, 2024
 layout: header
 header: compendium/events/genesis_placeholder_blur.jpg
 header-title: Genesis
@@ -31,6 +31,8 @@ return-url: /compendium/events/
   - [678 million BW](#678-million-bw)
   - [483 million BW](#483-million-bw)
   - [461 million BW](#461-million-bw)
+  - [460 million BW](#460-million-bw)
+  - [432 million BW](#432-million-bw)
 {: .toc}
 
 ## Early Genesis
@@ -110,3 +112,23 @@ Late Genesis was the last period of Genesis.
     - The [Westland Belt](/compendium/locations/westland-belt/) formed with its [central](/compendium/locations/central-belt/), [northern](/compendium/locations/northern-belt/), and [southern](/compendium/locations/southern-belt/) geographic regions.
     - The [Wise Mountains](/compendium/locations/wise-mountains/) formed with its peak, [Wisemount](/compendium/locations/wisemount/).
     - The [Heaven Lands](/compendium/locations/heaven-lands/) formed with its [valley](/compendium/locations/heaven-valley/) and [peninsula](/compendium/locations/heavens-peninsula/).
+
+### 460 million BW
+
+- [Heaven River](/compendium/locations/heaven-river/) formed from the emerged [Heaven's Spring](/compendium/locations/heavens-spring/).
+  - [Heaven Falls](/compendium/locations/heaven-falls/) formed.
+- Wind erosion formed [Aridus](/compendium/locations/aridus/) in the Main Westlands with its [central](/compendium/locations/central-aridus/), [northern](/compendium/locations/northern-aridus/), and [southern](/compendium/locations/southern-aridus/) geographic regions.
+
+### 432 million BW
+
+- The Primordial formed the [Eastlands](/compendium/locations/eastlands/).
+  - The [Main Eastlands](/compendium/locations/main-eastlands/) formed.
+    - The [Eastland Canyons](/compendium/locations/eastland-canyons/) formed with its [central](/compendium/locations/orange-canyons/), [northern](/compendium/locations/white-canyons/), and [southern](/compendium/locations/brown-canyons/) geographic regions.
+    - The [Northern Ice Range](/compendium/locations/northern-ice-range/) formed.
+    - The [Eastland Badlands](/compendium/locations/eastland-badlands/) formed with its [central](/compendium/locations/central-badlands/), [northern](/compendium/locations/northern-badlands/), and [southern](/compendium/locations/southern-badlands/) geographic regions.
+  - [King's Island](/compendium/locations/kings-island/) formed.
+- The World Ocean's four oceanic divisions formed.
+  - The [Central Ocean](/compendium/locations/central-ocean/) formed.
+  - The [Far Ocean](/compendium/locations/far-ocean/) formed.
+  - The [Northern Ocean](/compendium/locations/northern-ocean/) formed.
+  - The [Southern Ocean](/compendium/locations/southern-ocean/) formed.

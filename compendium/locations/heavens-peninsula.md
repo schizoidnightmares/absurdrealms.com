@@ -1,7 +1,7 @@
 ---
-title: Heaven's Peninsula - Locations - Compendium
+title: Heaven‘s Peninsula - Locations - Compendium
 description: The peninsula of the Heaven Lands
-last_modified_at: March 31, 2024
+last_modified_at: April 3, 2024
 main: Compendium
 main-url: /compendium/
 return: Locations
