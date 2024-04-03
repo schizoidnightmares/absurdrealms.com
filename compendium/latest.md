@@ -13,7 +13,7 @@ return-url: /compendium/
 Below lists articles on the compendium that have been **updated** (*) or are **new**.
 
 - [April 2024](#april-2024)
-  - [April 3, 2024](#april-2-2024)
+  - [April 3, 2024](#april-3-2024)
 - [March 2024](#march-2024)
   - [March 31, 2024](#march-31-2024)
   - [March 27, 2024](#march-27-2024)
