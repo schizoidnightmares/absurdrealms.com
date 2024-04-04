@@ -145,6 +145,10 @@ code { white-space: nowrap; }
     max-width: 231px;
     width: 100%;
   }
+  &:is(.table) {
+    &:is(.caption + .table) { margin-top: 0; }
+    &:is(.cap + .table) { margin-top: .8rem; }
+  }
   // do not add top margin on image captions in tables
   .caption:not(table .caption) { margin-top: .5rem; }
 }
