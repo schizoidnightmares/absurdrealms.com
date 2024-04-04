@@ -35,6 +35,46 @@ defaults:
     values:
       layout: post
       category: news
+  -
+    scope:
+      path: compendium/creatures/*/
+      type: pages
+    values:
+      permalink: /compendium/creatures/:basename/
+      main: Compendium
+      main-url: /compendium/
+      return: Creatures
+      return-url: /compendium/creatures/
+  -
+    scope:
+      path: compendium/life/*/
+      type: pages
+    values:
+      permalink: /compendium/life/:basename/
+      main: Compendium
+      main-url: /compendium/
+      return: Life
+      return-url: /compendium/life/
+  -
+    scope:
+      path: compendium/locations/*/
+      type: pages
+    values:
+      permalink: /compendium/locations/:basename/
+      main: Compendium
+      main-url: /compendium/
+      return: Locations
+      return-url: /compendium/locations/
+  -
+    scope:
+      path: compendium/physics/*/
+      type: pages
+    values:
+      permalink: /compendium/physics/:basename/
+      main: Compendium
+      main-url: /compendium/
+      return: Physics
+      return-url: /compendium/physics/
 
 # extras      
 kramdown:
