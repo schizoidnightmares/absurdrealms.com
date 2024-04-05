@@ -1,14 +1,14 @@
 ---
 title: Contents - Anthology I
 description: The contents of Anthology I
-last_modified_at: March 8, 2024
+last_modified_at: April 5, 2024
 return: <i>Anthology I</i>
 return-url: /anthology-i/
 advance: Credits
 advance-url: /anthology-i/credits/
 ---
 
-# Contents of *Anthology I*
+# Contents of *[Anthology I](/anthology-i/)*
 <div markdown=0>
     <a class="feature option" href="/anthology-i/credits/">
         <img src="/assets/images/ui/list.png">

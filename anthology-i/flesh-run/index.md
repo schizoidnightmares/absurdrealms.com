@@ -1,7 +1,7 @@
 ---
 title: Flesh Run - Anthology I
 description: An adult newborn must face the trials of an enclosed hellish dimension of flesh
-last_modified_at: September 29, 2023
+last_modified_at: April 5, 2024
 layout: header
 header: anthology-i/flesh-run/flesh_run_placeholder_blur.jpg
 header-title: Flesh Run
@@ -15,7 +15,17 @@ advance: Birthing Pool
 advance-url: /anthology-i/flesh-run/birthing-pool/
 ---
 
-"Flesh Run" is the first short story in *[Anthology I](/anthology-i/)*. It takes place in an enclosed hellish dimension of flesh from the perspective of an adult newborn.
+<div class="table right plainlinks" markdown=0>
+  <table class="table full borders smallest">
+    <tr><th colspan=2>“Flesh Run”<br><small>Short story</small></th></tr>
+    <tr><th>Status</th><td>Released online</td></tr>
+    <tr><th>Genre(s)</th><td>Action · fantasy · horror · psychological · surrealist · thriller</td></tr>
+    <tr><th>Contents</th><td>9 scenes</td></tr>
+    <tr><th>Words</th><td>7556</td></tr>
+  </table>
+</div>
+
+"**Flesh Run**" is the first short story in *[Anthology I](/anthology-i/)*. It takes place in an enclosed hellish dimension of flesh from the perspective of an adult newborn.
 
 ## Scenes
 <div markdown=0>

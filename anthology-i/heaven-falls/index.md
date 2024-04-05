@@ -1,7 +1,7 @@
 ---
 title: Heaven Falls - Anthology I
 description: The story of the founding of Heaven's Sanctuary
-last_modified_at: October 2, 2023
+last_modified_at: April 5, 2024
 layout: header
 header: anthology-i/heaven-falls/heaven_falls_placeholder_blur.jpg
 header-title: Heaven Falls
@@ -15,7 +15,17 @@ advance: The Wise One
 advance-url: /anthology-i/heaven-falls/the-wise-one/
 ---
 
-"Heaven Falls" is the second short story in *[Anthology I](/anthology-i/)*. It tells the story of the founding of Heaven's Sanctuary, a civilization built into the side of a waterfall.
+<div class="table right plainlinks" markdown=0>
+  <table class="table full borders smallest">
+    <tr><th colspan=2>“Heaven Falls”<br><small>Short story</small></th></tr>
+    <tr><th>Status</th><td>Released online</td></tr>
+    <tr><th>Genre(s)</th><td>Fantasy · epic · philosophical</td></tr>
+    <tr><th>Contents</th><td>3 scenes</td></tr>
+    <tr><th>Words</th><td>1726</td></tr>
+  </table>
+</div>
+
+"**Heaven Falls**" is the second short story in *[Schizoid Nightmares Anthology I](/anthology-i/)*. It describes the origins and founders of Heaven's Sanctuary, a pre-industrial civilization built into the side of a waterfall.
 
 ## Scenes
 <div markdown=0>

@@ -1,7 +1,7 @@
 ---
 title: The Gorge - Anthology I
 description: The expedition of the HSS Heaven Sails to the other side of the world
-last_modified_at: November 4, 2023
+last_modified_at: April 5, 2024
 layout: header
 header: anthology-i/the-gorge/the_gorge_placeholder_blur.jpg
 header-title: The Gorge
@@ -15,7 +15,17 @@ advance: Heaven Sails
 advance-url: /anthology-i/the-gorge/heaven-sails/
 ---
 
-"The Gorge" is the third short story in *[Anthology I](/anthology-i/)*. Taking place a millennium after "[Heaven Falls](/anthology-i/heaven-falls/)," it chronicles the expedition of the HSS *Heaven Sails* from Heaven's Sanctuary to the other side of the world.
+<div class="table right plainlinks" markdown=0>
+  <table class="table full borders smallest">
+    <tr><th colspan=2>“The Gorge”<br><small>Short story</small></th></tr>
+    <tr><th>Status</th><td>Released online</td></tr>
+    <tr><th>Genre(s)</th><td>Adventure · fantasy · sci-fi</td></tr>
+    <tr><th>Contents</th><td>7 scenes</td></tr>
+    <tr><th>Words</th><td>6835</td></tr>
+  </table>
+</div>
+
+"**The Gorge**" is the third short story in *[Anthology I](/anthology-i/)*. Taking place a millennium after "[Heaven Falls](/anthology-i/heaven-falls/)," it chronicles the expedition of the HSS *Heaven Sails* from Heaven's Sanctuary to the other side of the world.
 
 ## Scenes
 <div markdown=0>

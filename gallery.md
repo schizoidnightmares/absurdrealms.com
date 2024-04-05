@@ -1,11 +1,11 @@
 ---
 title: Gallery
 description: A gallery of images present on the website
-last_modified_at: March 24, 2024
+last_modified_at: April 5, 2024
 ---
 
 # Gallery
-35 images in total
+36 images in total
 {: .cap}
 
 A gallery of the images present on the website
@@ -50,7 +50,7 @@ Uncredited paid commissions
 {% include gallery.html author="Uncredited paid" %}
 
 ## Placeholders
-31 images in total
+32 images in total
 {: .cap}
 
 Artwork used temporarily until professional work is produced
@@ -64,7 +64,7 @@ Amateur placeholder art created by Schizoid Nightmares, derived from AI
 {% include gallery.html author="AID" %}
 
 ### AI generated
-29 images
+30 images
 {: .cap}
 
 AI generated placeholders, all released under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
