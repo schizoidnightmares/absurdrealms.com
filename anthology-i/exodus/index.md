@@ -19,7 +19,7 @@ advance-url: /anthology-i/exodus/the-kings-republic/
   <table class="table full borders smallest">
     <tr><th colspan=2>“Exodus”<br><small>Short story</small></th></tr>
     <tr><th>Status</th><td>Work in progress</td></tr>
-    <tr><th>Genre(s)</th><td>Drama · epic · fantasy · political · sci-fi · thriller · war </td></tr>
+    <tr><th>Genre(s)</th><td>Adventure · drama · epic · fantasy · political · sci-fi · thriller · war </td></tr>
     <tr><th>Contents</th><td>2 scenes (TBD)</td></tr>
     <tr><th>Words</th><td>2547 (TBD)</td></tr>
   </table>
