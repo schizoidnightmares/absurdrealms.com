@@ -1,7 +1,7 @@
 ---
 title: Genesis - Events - Compendium
 description: Events before Man
-last_modified_at: April 3, 2024
+last_modified_at: April 10, 2024
 layout: header
 header: compendium/events/genesis_placeholder_blur.jpg
 header-title: Genesis
@@ -33,6 +33,7 @@ return-url: /compendium/events/
   - [461 million BW](#461-million-bw)
   - [460 million BW](#460-million-bw)
   - [432 million BW](#432-million-bw)
+  - [431 million BW](#431-million-bw)
 {: .toc}
 
 ## Early Genesis
@@ -124,11 +125,27 @@ Late Genesis was the last period of Genesis.
 - The Primordial formed the [Eastlands](/compendium/locations/eastlands/).
   - The [Main Eastlands](/compendium/locations/main-eastlands/) formed.
     - The [Eastland Canyons](/compendium/locations/eastland-canyons/) formed with its [central](/compendium/locations/orange-canyons/), [northern](/compendium/locations/white-canyons/), and [southern](/compendium/locations/brown-canyons/) geographic regions.
-    - The [Northern Ice Range](/compendium/locations/northern-ice-range/) formed.
+      - The [Orange Gorge](/compendium/locations/orange-gorge/) formed in the Orange Canyons.
+        - The [Orange Narrow](/compendium/locations/orange-narrow/) formed.
+        - The [Orange Opening](/compendium/locations/orange-opening/) formed.
     - The [Eastland Badlands](/compendium/locations/eastland-badlands/) formed with its [central](/compendium/locations/central-badlands/), [northern](/compendium/locations/northern-badlands/), and [southern](/compendium/locations/southern-badlands/) geographic regions.
   - [King's Island](/compendium/locations/kings-island/) formed.
+    - The [Dragonhead](/compendium/locations/dragonhead/) and [Dragonclaw](/compendium/locations/dragonclaw/) peninsulas formed.
+    - [King's Bay](/compendium/locations/kings-bay/) formed.
+    - The [Western Plateau](/compendium/locations/western-plateau/) formed.
+    - [King's Island Central](/compendium/locations/kings-island-central/) formed.
+      - [King's Mount](/compendium/locations/kings-mount/) formed.
+    - The [Eastern Plateau](/compendium/locations/eastern-plateau/) formed.
+    - The [Maidenhead](/compendium/locations/maidenhead/) and [Dragontail](/compendium/locations/dragontail/) peninsulas formed.
+    - [Maiden's Bay](/compendium/locations/maidens-bay/) formed.
+
 - The World Ocean's four oceanic divisions formed.
   - The [Central Ocean](/compendium/locations/central-ocean/) formed.
   - The [Far Ocean](/compendium/locations/far-ocean/) formed.
   - The [Northern Ocean](/compendium/locations/northern-ocean/) formed.
   - The [Southern Ocean](/compendium/locations/southern-ocean/) formed.
+
+### 431 million BW
+
+- The [Orange River](/compendium/locations/orange-river/) formed from the emerged [Orange Spring](/compendium/locations/orange-spring/).
+  - [Narrow Island](/compendium/locations/narrow-island/) formed.

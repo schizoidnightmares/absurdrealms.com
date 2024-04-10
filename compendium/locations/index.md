@@ -1,13 +1,13 @@
 ---
 title: Locations - Compendium
 description: Locations in Absurd Realms
-last_modified_at: April 3, 2024
+last_modified_at: April 10, 2024
 return: Compendium
 return-url: /compendium/
 ---
 
 # Locations
-48 articles in total
+63 articles in total
 {: .cap}
 
 A **location** is a defined area or point in space — listed by form.
@@ -25,7 +25,9 @@ A **location** is a defined area or point in space — listed by form.
   - [Superclusters](#superclusters)
 - [Geography](#geography)
   - [Badlands](#badlands)
+  - [Bays](#bays)
   - [Canyon systems](#canyon-systems)
+  - [Canyons](#canyons)
   - [Continents](#continents)
   - [Deserts](#deserts)
   - [Geographic regions](#geographic-regions)
@@ -36,6 +38,7 @@ A **location** is a defined area or point in space — listed by form.
   - [Oceanic divisions](#oceanic-divisions)
   - [Oceans](#oceans)
   - [Peninsulas](#peninsulas)
+  - [Plateaus](#plateaus)
   - [Rivers](#rivers)
   - [Springs](#springs)
   - [Subcontinents](#subcontinents)
@@ -123,7 +126,7 @@ A **location** is a defined area or point in space — listed by form.
 {: .plainlinks}
 
 ## Geography
-35 articles in total
+49 articles in total
 {: .cap}
 
 ### Badlands
@@ -133,11 +136,26 @@ A **location** is a defined area or point in space — listed by form.
 - [Eastland Badlands](/compendium/locations/eastland-badlands/)
 {: .plainlinks}
 
+### Bays
+2 articles
+{: .cap}
+
+- [King's Bay](/compendium/locations/kings-bay/)
+- [Maiden's Bay](/compendium/locations/maidens-bay/)
+{: .plainlinks}
+
 ### Canyon systems
 1 article
 {: .cap}
 
 - [Eastland Canyons](/compendium/locations/eastland-canyons/)
+{: .plainlinks}
+
+### Canyons
+1 article
+{: .cap}
+
+- [Orange Gorge](/compendium/locations/orange-gorge/)
 {: .plainlinks}
 
 ### Continents
@@ -156,17 +174,20 @@ A **location** is a defined area or point in space — listed by form.
 {: .plainlinks}
 
 ### Geographic regions
-12 articles
+15 articles
 {: .cap}
 
 - [Brown Canyons](/compendium/locations/white-canyons/)
 - [Central Aridus](/compendium/locations/central-aridus/)
 - [Central Badlands](/compendium/locations/central-badlands/)
 - [Central Belt](/compendium/locations/central-belt/)
+- [King's Island Central](/compendium/locations/kings-island-central/)
 - [Northern Aridus](/compendium/locations/northern-aridus/)
 - [Northern Badlands](/compendium/locations/northern-badlands/)
 - [Northern Belt](/compendium/locations/northern-belt/)
 - [Orange Canyons](/compendium/locations/orange-canyons/)
+- [Orange Narrow](/compendium/locations/orange-narrow/)
+- [Orange Opening](/compendium/locations/orange-opening/)
 - [Southern Aridus](/compendium/locations/southern-aridus/)
 - [Southern Badlands](/compendium/locations/southern-badlands/)
 - [Southern Belt](/compendium/locations/southern-belt/)
@@ -174,10 +195,11 @@ A **location** is a defined area or point in space — listed by form.
 {: .plainlinks .cols2}
 
 ### Islands
-1 article
+2 articles
 {: .cap}
 
 - [King's Island](/compendium/locations/kings-island/)
+- [Narrow Island](/compendium/locations/narrow-island/)
 {: .plainlinks}
 
 ### Mainlands
@@ -189,18 +211,18 @@ A **location** is a defined area or point in space — listed by form.
 {: .plainlinks}
 
 ### Mountain ranges
-3 articles
+2 articles
 {: .cap}
 
-- [Northern Ice Range](/compendium/locations/northern-ice-range/)
 - [Westland Belt](/compendium/locations/westland-belt/)
 - [Wise Mountains](/compendium/locations/wise-mountains/)
 {: .plainlinks}
 
 ### Mountains
-1 article
+2 articles
 {: .cap}
 
+- [King's Mount](/compendium/locations/kings-mount/)
 - [Wisemount](/compendium/locations/wisemount/)
 {: .plainlinks}
 
@@ -222,24 +244,38 @@ A **location** is a defined area or point in space — listed by form.
 {: .plainlinks}
 
 ### Peninsulas
-1 article
+5 articles
 {: .cap}
 
+- [Dragonclaw](/compendium/locations/dragonclaw/)
+- [Dragonhead](/compendium/locations/dragonhead/)
+- [Dragontail](/compendium/locations/dragontail/)
 - [Heaven's Peninsula](/compendium/locations/heavens-peninsula/)
+- [Maidenhead](/compendium/locations/maidenhead/)
+{: .plainlinks}
+
+### Plateaus
+2 articles
+{: .cap}
+
+- [Eastern Plateau](/compendium/locations/eastern-plateau/)
+- [Western Plateau](/compendium/locations/western-plateau/)
 {: .plainlinks}
 
 ### Rivers
-1 article
+2 articles
 {: .cap}
 
 - [Heaven River](/compendium/locations/heaven-river/)
+- [Orange River](/compendium/locations/orange-river/)
 {: .plainlinks}
 
 ### Springs
-1 article
+2 articles
 {: .cap}
 
 - [Heaven's Spring](/compendium/locations/heavens-spring/)
+- [Orange Spring](/compendium/locations/orange-spring/)
 {: .plainlinks}
 
 ### Subcontinents

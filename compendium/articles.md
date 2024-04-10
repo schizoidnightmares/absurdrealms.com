@@ -1,13 +1,13 @@
 ---
 title: Articles - Compendium
 description: Full alphabetical list of compendium articles
-last_modified_at: April 3, 2024
+last_modified_at: April 10, 2024
 return: Compendium
 return-url: /compendium/
 ---
 
 # Articles
-52 articles in total
+67 articles in total
 {: .cap}
 
 An alphabetical directory of all the **articles** in the compendium
@@ -15,6 +15,7 @@ An alphabetical directory of all the **articles** in the compendium
 - [A](#a)
 - [B](#b)
 - [C](#c)
+- [D](#d)
 - [E](#e)
 - [F](#f)
 - [G](#g)
@@ -59,10 +60,20 @@ An alphabetical directory of all the **articles** in the compendium
 - [Cosmos](/compendium/locations/cosmos/)
 {: .plainlinks}
 
-## E
+## D
 3 articles
 {: .cap}
 
+- [Dragonclaw](/compendium/locations/dragonclaw/)
+- [Dragonhead](/compendium/locations/dragonhead/)
+- [Dragontail](/compendium/locations/dragontail/)
+{: .plainlinks}
+
+## E
+4 articles
+{: .cap}
+
+- [Eastern Plateau](/compendium/locations/eastern-plateau/)
 - [Eastland Badlands](/compendium/locations/eastland-badlands/)
 - [Eastland Canyons](/compendium/locations/eastland-canyons/)
 - [Eastlands](/compendium/locations/eastlands/)
@@ -96,16 +107,21 @@ An alphabetical directory of all the **articles** in the compendium
 {: .plainlinks}
 
 ## K
-1 article
+4 articles
 {: .cap}
 
+- [King's Bay](/compendium/locations/kings-bay/)
 - [King's Island](/compendium/locations/kings-island/)
+- [King's Island Central](/compendium/locations/kings-island-central/)
+- [King's Mount](/compendium/locations/kings-mount/)
 {: .plainlinks}
 
 ## M
-3 articles
+5 articles
 {: .cap}
 
+- [Maiden's Bay](/compendium/locations/maidens-bay/)
+- [Maidenhead](/compendium/locations/maidenhead/)
 - [Main Eastlands](/compendium/locations/main-eastlands/)
 - [Main Westlands](/compendium/locations/main-westlands/)
 - [Moon](/compendium/locations/moon/)
@@ -115,18 +131,23 @@ An alphabetical directory of all the **articles** in the compendium
 5 articles
 {: .cap}
 
+- [Narrow Island](/compendium/locations/narrow-island/)
 - [Northern Aridus](/compendium/locations/northern-aridus/)
 - [Northern Badlands](/compendium/locations/northern-badlands/)
 - [Northern Belt](/compendium/locations/northern-belt/)
-- [Northern Ice Range](/compendium/locations/northern-ice-range/)
 - [Northern Ocean](/compendium/locations/northern-ocean/)
 {: .plainlinks}
 
 ## O
-1 article
+6 articles
 {: .cap}
 
 - [Orange Canyons](/compendium/locations/orange-canyons/)
+- [Orange Gorge](/compendium/locations/orange-gorge/)
+- [Orange Narrow](/compendium/locations/orange-narrow/)
+- [Orange Opening](/compendium/locations/orange-opening/)
+- [Orange River](/compendium/locations/orange-river/)
+- [Orange Spring](/compendium/locations/orange-spring/)
 {: .plainlinks}
 
 ## P
@@ -158,9 +179,10 @@ An alphabetical directory of all the **articles** in the compendium
 {: .plainlinks}
 
 ## W
-8 articles
+9 articles
 {: .cap}
 
+- [Western Plateau](/compendium/locations/western-plateau/)
 - [Westland Belt](/compendium/locations/westland-belt/)
 - [Westlands](/compendium/locations/westlands/)
 - [White Canyons](/compendium/locations/white-canyons/)

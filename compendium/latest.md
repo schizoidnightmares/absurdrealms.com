@@ -1,18 +1,19 @@
 ---
 title: Latest updates - Compendium
 description: New and updated articles in the compendium
-last_modified_at: April 3, 2024
+last_modified_at: April 10, 2024
 return: Compendium
 return-url: /compendium/
 ---
 
 # Latest updates
-24 updated in total, 52 new in total
+25 updated in total, 68 new in total, 1 removed in total
 {: .cap}
 
-Below lists articles on the compendium that have been **updated** (*) or are **new**.
+Below lists **updated** (*), **new**, or **removed** (<s>example</s>) articles on the compendium
 
 - [April 2024](#april-2024)
+  - [April 10, 2024](#april-10-2024)
   - [April 3, 2024](#april-3-2024)
 - [March 2024](#march-2024)
   - [March 31, 2024](#march-31-2024)
@@ -21,8 +22,32 @@ Below lists articles on the compendium that have been **updated** (*) or are **n
  {: .toc}
 
 ## April 2024
-8 updated in total, 23 new in total
+9 updated in total, 39 new in total, 1 removed in total
 {: .cap}
+
+### April 10, 2024
+1 updated, 16 new, 1 removed
+{: .cap}
+
+- [Dragonclaw](/compendium/locations/dragonclaw/)
+- [Dragonhead](/compendium/locations/dragonhead/)
+- [Dragontail](/compendium/locations/dragontail/)
+- [Eastern Plateau](/compendium/locations/eastern-plateau/)
+- [Genesis](/compendium/events/genesis/)*
+- [King's Bay](/compendium/locations/kings-bay/)
+- [King's Island Central](/compendium/locations/kings-island-central/)
+- [King's Mount](/compendium/locations/kings-mount/)
+- [Maiden's Bay](/compendium/locations/maidens-bay/)
+- [Maidenhead](/compendium/locations/maidenhead/)
+- [Narrow Island](/compendium/locations/narrow-island/)
+- <s>Northern Ice Range</s>
+- [Orange Gorge](/compendium/locations/orange-gorge/)
+- [Orange Narrow](/compendium/locations/orange-narrow/)
+- [Orange Opening](/compendium/locations/orange-opening/)
+- [Orange River](/compendium/locations/orange-river/)
+- [Orange Spring](/compendium/locations/orange-spring/)
+- [Western Plateau](/compendium/locations/western-plateau/)
+{: .plainlinks .cols2}
 
 ### April 3, 2024
 8 updated, 23 new
@@ -48,7 +73,7 @@ Below lists articles on the compendium that have been **updated** (*) or are **n
 - [Main Westlands](/compendium/locations/main-westlands/)*
 - [Northern Aridus](/compendium/locations/northern-aridus/)
 - [Northern Badlands](/compendium/locations/northern-badlands/)
-- [Northern Ice Range](/compendium/locations/northern-ice-range/)
+- Northern Ice Range
 - [Northern Ocean](/compendium/locations/northern-ocean/)
 - [Orange Canyons](/compendium/locations/orange-canyons/)
 - [Southern Aridus](/compendium/locations/southern-aridus/)
