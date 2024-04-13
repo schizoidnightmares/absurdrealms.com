@@ -1,7 +1,7 @@
 ---
 title: World - Locations - Compendium
 description: A silicate planet that orbits the Sun in the Alpha System
-last_modified_at: April 3, 2024
+last_modified_at: April 13, 2024
 ---
 
 # World
@@ -11,14 +11,16 @@ Silicate planet
 <div class="table right plainlinks" markdown=0>
   <table class="table full borders smallest">
     <tr><th colspan=2>World<br><small>Silicate planet</small></th></tr>
-    <tr><th>Adjective</th><td>Worlder</td></tr>
+    <tr><th>Adjective</th><td>World</td></tr>
     <tr><th>Demonym</th><td>Worlder(s)</td></tr>
     <tr><th>Formation</th><td><a href="/compendium/events/genesis/#136-billion-bw">1.36 billion BW</a> (<a href="/compendium/events/genesis/#middle-genesis">Middle Genesis</a>)</td></tr>
-    <tr><th><a href="/compendium/locations/">Location</a></th><td><a href="/compendium/locations/alpha-system/">Alpha System</a></td></tr>
+    <tr><th><a href="/compendium/locations/">Location</a></th><td><a href="/compendium/locations/alpha-system/">Alpha System</a>, <a href="/compendium/locations/alpha-arm/">Alpha Arm</a>, <a href="/compendium/locations/alpha-galaxy/">Alpha Galaxy</a></td></tr>
     <tr><th>Orbits</th><td><a href="/compendium/locations/sun/">Sun</a></td></tr>
     <tr><th>Orbital period</th><td>365 days</td></tr>
     <tr><th>Rotational period</th><td>24 hours</td></tr>
     <tr><th>Moon(s)</th><td><a href="/compendium/locations/moon/">Moon</a></td></tr>
+    <tr><th>Circumference</th><td>40,000 km<sup>2</sup></td></tr>
+    <tr><th colspan=2>Composition</th></tr>
     <tr><th>Atmosphere</th><td><small>Mostly:</small><br>Nitrogen · oxygen</td></tr>
     <tr><th>Environment</th><td><small>Mostly:</small><br><a href="/compendium/locations/world-ocean/">Ocean</a> · continents</td></tr>
   </table>

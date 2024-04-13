@@ -1,18 +1,19 @@
 ---
 title: Latest updates - Compendium
 description: New and updated articles in the compendium
-last_modified_at: April 10, 2024
+last_modified_at: April 13, 2024
 return: Compendium
 return-url: /compendium/
 ---
 
 # Latest updates
-25 updated in total, 68 new in total, 1 removed in total
+28 updated in total, 68 new in total, 1 removed in total
 {: .cap}
 
 Below lists **updated** (*), **new**, or **removed** (<s>example</s>) articles on the compendium
 
 - [April 2024](#april-2024)
+  - [April 13, 2024](#april-13-2024)
   - [April 10, 2024](#april-10-2024)
   - [April 3, 2024](#april-3-2024)
 - [March 2024](#march-2024)
@@ -22,8 +23,17 @@ Below lists **updated** (*), **new**, or **removed** (<s>example</s>) articles o
  {: .toc}
 
 ## April 2024
-9 updated in total, 39 new in total, 1 removed in total
+12 updated in total, 39 new in total, 1 removed in total
 {: .cap}
+
+### April 13, 2024
+3 updated
+{: .cap}
+
+- [Main Westlands](/compendium/locations/main-westlands/)*
+- [Westlands](/compendium/locations/westlands/)*
+- [World](/compendium/locations/main-westlands/)*
+{: .plainlinks}
 
 ### April 10, 2024
 1 updated, 16 new, 1 removed
