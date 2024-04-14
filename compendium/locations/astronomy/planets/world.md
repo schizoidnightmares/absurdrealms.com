@@ -1,7 +1,7 @@
 ---
 title: World - Locations - Compendium
 description: A silicate planet that orbits the Sun in the Alpha System
-last_modified_at: April 13, 2024
+last_modified_at: April 14, 2024
 ---
 
 # World
@@ -19,7 +19,7 @@ Silicate planet
     <tr><th>Orbital period</th><td>365 days</td></tr>
     <tr><th>Rotational period</th><td>24 hours</td></tr>
     <tr><th>Moon(s)</th><td><a href="/compendium/locations/moon/">Moon</a></td></tr>
-    <tr><th>Circumference</th><td>40,000 km<sup>2</sup></td></tr>
+    <tr><th>Circumference</th><td>~40,000 km<sup>2</sup></td></tr>
     <tr><th colspan=2>Composition</th></tr>
     <tr><th>Atmosphere</th><td><small>Mostly:</small><br>Nitrogen · oxygen</td></tr>
     <tr><th>Environment</th><td><small>Mostly:</small><br><a href="/compendium/locations/world-ocean/">Ocean</a> · continents</td></tr>
