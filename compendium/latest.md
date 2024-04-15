@@ -1,18 +1,19 @@
 ---
 title: Latest updates - Compendium
 description: New and updated articles in the compendium
-last_modified_at: April 14, 2024
+last_modified_at: April 15, 2024
 return: Compendium
 return-url: /compendium/
 ---
 
 # Latest updates
-29 updated in total, 68 new in total, 1 removed in total
+30 updated in total, 68 new in total, 1 removed in total
 {: .cap}
 
 Below lists **updated** (*), **new**, or **removed** (<s>example</s>) articles on the compendium
 
 - [April 2024](#april-2024)
+  - [April 15, 2024](#april-15-2024)
   - [April 14, 2024](#april-14-2024)
   - [April 13, 2024](#april-13-2024)
   - [April 10, 2024](#april-10-2024)
@@ -24,8 +25,15 @@ Below lists **updated** (*), **new**, or **removed** (<s>example</s>) articles o
  {: .toc}
 
 ## April 2024
-13 updated in total, 39 new in total, 1 removed in total
+14 updated in total, 39 new in total, 1 removed in total
 {: .cap}
+
+### April 15, 2024
+1 updated
+{: .cap}
+
+- [Heaven River](/compendium/locations/heaven-river/)*
+{: .plainlinks}
 
 ### April 14, 2024
 1 updated
