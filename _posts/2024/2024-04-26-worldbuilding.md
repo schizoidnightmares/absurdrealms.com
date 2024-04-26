@@ -12,7 +12,7 @@ As my fiction has evolved, so has the complexity of its universe. Until "[Exodus
 Writing "Exodus" has required me to engage in heavy-duty worldbuilding, where I've had to explore various software to aid me in this task. Initially, I thought I could rely solely on developing the [compendium](/compendium/). While it is suitable for reading, it lacks for use in development.
 
 ## Finding the least worst options
-Frankly, finding the right worldbuilding software has been a journey of trial and error. There is no complete suite that perfectly fits my needs. I’ve explored virtually all the well-known (e.g. World Anvil, LegendKeeper, Fantasia Archive) and less well-known (e.g. Lore Forge, kanko.io, Fortelling) software. I’ve even ventured into software not necessarily intended for worldbuilding (e.g. Google Sheets, Google Docs, Obsidian, Notion).
+Frankly, finding the right worldbuilding software has been a journey of trial and error. There is no complete suite that perfectly fits my needs. I’ve explored virtually all the well-known (e.g. World Anvil, LegendKeeper, Fantasia Archive) and less well-known (e.g. Lore Forge, kanka.io, Fortelling) software. I’ve even ventured into software not necessarily intended for worldbuilding (e.g. Google Sheets, Google Docs, Obsidian, Notion).
 
 My extensive search has landed me on using <a href="https://www.aeontimeline.com/" target="_blank">Aeon Timeline</a> for its custom calendar feature, automatic date calculation, and custom data types. While still imperfect, it serves most of my needs beyond the compendium.
 
