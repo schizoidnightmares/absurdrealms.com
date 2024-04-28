@@ -1,7 +1,7 @@
 ---
 title: Compendium - Compendium
 description: Learn more about the world of Absurd Realms
-last_modified_at: April 3, 2024
+last_modified_at: April 28, 2024
 ---
 
 # Compendium
@@ -9,13 +9,13 @@ The **compendium** is an official in-universe reference guide to *Absurd Realms*
 
 ## Articles
 <div class="flexmenu" markdown=0>
-    <a class="feature option" href="/compendium/latest/">
-        <img src="/assets/images/ui/bell.png">
-        <div><p>Latest</p></div>
-    </a>
     <a class="feature option" href="/compendium/articles/">
         <img src="/assets/images/ui/list.png">
-        <div><p>All</p></div>
+        <div><p>Directory</p></div>
+    </a>
+    <a class="feature option" href="https://github.com/schizoidnightmares/absurdrealms.com/tree/master/compendium" target="_blank">
+        <img src="/assets/images/ui/bell.png">
+        <div><p>Updates</p></div>
     </a>
 </div>
 
