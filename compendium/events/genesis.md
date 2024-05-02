@@ -130,9 +130,12 @@ Late Genesis (LG) was the last period of Genesis.
 
 ### 460 million BW
 
-- [Heaven River](/compendium/locations/heaven-river/) formed from the emerged [Heaven's Spring](/compendium/locations/heavens-spring/).
-  - [Heaven Falls](/compendium/locations/heaven-falls/) formed.
-- Wind erosion formed [Aridus](/compendium/locations/aridus/) in the Main Westlands with its [central](/compendium/locations/central-aridus/), [northern](/compendium/locations/northern-aridus/), and [southern](/compendium/locations/southern-aridus/) geographic regions.
+- Formation of [Heaven River](/compendium/locations/heaven-river/) from the emergence of [Heaven's Spring](/compendium/locations/heavens-spring/)
+  - Formation of [Heaven Falls](/compendium/locations/heaven-falls/)
+- Formation of [Aridus](/compendium/locations/aridus/) in the Main Westlands by wind erosion
+  - [Central Aridus](/compendium/locations/central-aridus/)
+  - [Northern Aridus](/compendium/locations/northern-aridus/)
+  - [Southern Aridus](/compendium/locations/southern-aridus/)
 
 ### 432 million BW
 
