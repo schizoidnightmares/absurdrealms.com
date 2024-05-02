@@ -40,7 +40,7 @@ return-url: /compendium/events/
 2.74–1.82 billion BW
 {: .cap}
 
-Early Genesis was the first period of Genesis.
+Early Genesis (EG) was the first period of Genesis.
 
 ### 2.74 billion BW
 
@@ -73,7 +73,7 @@ Early Genesis was the first period of Genesis.
 1.81 billion–915 million BW
 {: .cap}
 
-Middle Genesis was the intermediate period of Genesis.
+Middle Genesis (MG) was the intermediate period of Genesis.
 
 ### 1.36 billion BW
 
@@ -92,7 +92,7 @@ Middle Genesis was the intermediate period of Genesis.
 914 million–10,001 BW
 {: .cap}
 
-Late Genesis was the last period of Genesis.
+Late Genesis (LG) was the last period of Genesis.
 
 ### 739 million BW
 
