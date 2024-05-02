@@ -1,7 +1,7 @@
 ---
 title: Genesis - Events - Compendium
 description: Events before Man
-last_modified_at: April 10, 2024
+last_modified_at: May 2, 2024
 layout: header
 header: compendium/events/genesis_placeholder_blur.jpg
 header-title: Genesis
@@ -13,7 +13,7 @@ return: Events
 return-url: /compendium/events/
 ---
 
-**Genesis** was the era before Prehistory, spanning all that came before Man, as far back as the [universe](/compendium/locations/universe/)'s beginning.
+**Genesis** was the era before Prehistory, spanning all that came before Man, as far back as the beginning of the [universe](/compendium/locations/universe/).
 
 - [Early Genesis](#early-genesis)
   - [2.74 billion BW](#274-billion-bw)
@@ -44,30 +44,30 @@ Early Genesis was the first period of Genesis.
 
 ### 2.74 billion BW
 
-- The [universe](/compendium/locations/universe/) began.
+- Beginning of the [universe](/compendium/locations/universe/)
 
 ### 2.72 billion BW
 
-- The [Cosmos](/compendium/locations/cosmos/) formed.
-- The [Alpha Supercluster](/compendium/locations/alpha-supercluster/) formed in the Cosmos.
+- Formation of the [Cosmos](/compendium/locations/cosmos/) in the universe
+- Formation of the [Alpha Supercluster](/compendium/locations/alpha-supercluster/) in the Cosmos
 
 ### 2.66 billion BW
 
-- The [Great Thread](/compendium/locations/great-thread/) formed in the Cosmos.
-  - The Alpha Supercluster became part of the Great Thread.
+- Formation of the [Great Thread](/compendium/locations/great-thread/) in the Cosmos
+  - Joining of the Alpha Supercluster with the Great Thread
 
 ### 2.65 billion BW
 
-- The [Alpha Galaxy](/compendium/locations/alpha-galaxy/) formed in the Alpha Supercluster.
+- Formation of the [Alpha Galaxy](/compendium/locations/alpha-galaxy/) in the Alpha Supercluster
 
 ### 2.27 billion BW
 
-- The [Alpha Group](/compendium/locations/alpha-group/) formed in the Alpha Supercluster.
-  - The Alpha Galaxy became part of the Alpha Group.
+- Formation of the [Alpha Group](/compendium/locations/alpha-group/) in the Alpha Supercluster
+  - Joining of the Alpha Galaxy with the Alpha Group
 
 ### 2.20 billion BW
 
-- The [Alpha Arm](/compendium/locations/alpha-arm/) formed in the Alpha Galaxy.
+- Formation of the [Alpha Arm](/compendium/locations/alpha-arm/) in the Alpha Galaxy
 
 ## Middle Genesis
 1.81 billion–915 million BW
@@ -77,8 +77,12 @@ Middle Genesis was the intermediate period of Genesis.
 
 ### 1.36 billion BW
 
-- The [Alpha System](/compendium/locations/alpha-system/) and its star, the [Sun](/compendium/locations/sun/), formed in the [Alpha Arm](/compendium/locations/alpha-arm/).
-- The [World](/compendium/locations/world/) and its moon, the [Moon](/compendium/locations/moon/), formed in the Alpha System.
+- Formation of the [Alpha Interstellar Region](/compendium/locations/alpha-interstellar-region/) in the [Alpha Arm](/compendium/locations/alpha-arm/)
+  - Formation of the [Alpharho Chain](/compendium/locations/alpharho-chain/)
+    - Formation of the [Alpha System](/compendium/locations/alpha-system/)
+      - Formation of the [Sun](/compendium/locations/sun/)
+      - Formation of the [World](/compendium/locations/world/)
+        - Formation of the [Moon](/compendium/locations/moon/)
 
 ### 1.04 billion BW
 

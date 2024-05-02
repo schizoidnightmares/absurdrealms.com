@@ -1,13 +1,13 @@
 ---
 title: Locations - Compendium
 description: Locations in Absurd Realms
-last_modified_at: April 10, 2024
+last_modified_at: May 2, 2024
 return: Compendium
 return-url: /compendium/
 ---
 
 # Locations
-63 articles in total
+65 articles in total
 {: .cap}
 
 A **location** is a defined area or point in space — listed by form.
@@ -16,6 +16,8 @@ A **location** is a defined area or point in space — listed by form.
   - [Filaments](#filaments)
   - [Galaxies](#galaxies)
   - [Galaxy groups](#galaxy-groups)
+  - [Interstellar regions](#interstellar-regions)
+  - [Interstellar subregions](#interstellar-subregions)
   - [Moons](#moons)
   - [Planetary systems](#planetary-systems)
   - [Planets](#planets)
@@ -47,7 +49,7 @@ A **location** is a defined area or point in space — listed by form.
 {: .toc}
 
 ## Astronomy
-1 article, 13 in total
+1 article, 15 in total
 {: .cap}
 
 - [Universe](/compendium/locations/universe/)
@@ -72,6 +74,20 @@ A **location** is a defined area or point in space — listed by form.
 {: .cap}
 
 - [Alpha Group](/compendium/locations/alpha-group/)
+{: .plainlinks}
+
+### Interstellar regions
+1 article
+{: .cap}
+
+- [Alpha Interstellar Region](/compendium/locations/alpha-interstellar-region/)
+{: .plainlinks}
+
+### Interstellar subregions
+1 article
+{: .cap}
+
+- [Alpharho Chain](/compendium/locations/alpharho-chain/)
 {: .plainlinks}
 
 ### Moons
@@ -126,7 +142,7 @@ A **location** is a defined area or point in space — listed by form.
 {: .plainlinks}
 
 ## Geography
-49 articles in total
+50 articles in total
 {: .cap}
 
 ### Badlands

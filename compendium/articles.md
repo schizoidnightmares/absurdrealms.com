@@ -1,13 +1,13 @@
 ---
 title: Articles - Compendium
 description: Full alphabetical list of compendium articles
-last_modified_at: April 10, 2024
+last_modified_at: May 2, 2024
 return: Compendium
 return-url: /compendium/
 ---
 
 # Articles
-67 articles in total
+69 articles in total
 {: .cap}
 
 An alphabetical directory of all the **articles** in the compendium
@@ -31,14 +31,16 @@ An alphabetical directory of all the **articles** in the compendium
 {: .toc}
 
 ## A
-6 articles
+8 articles
 {: .cap}
 
 - [Alpha Arm](/compendium/locations/alpha-arm/)
 - [Alpha Galaxy](/compendium/locations/alpha-galaxy/)
 - [Alpha Group](/compendium/locations/alpha-group/)
+- [Alpha Interstellar Region](/compendium/locations/alpha-interstellar-region/)
 - [Alpha Supercluster](/compendium/locations/alpha-supercluster/)
 - [Alpha System](/compendium/locations/alpha-system/)
+- [Alpharho Chain](/compendium/locations/alpharho-chain/)
 - [Aridus](/compendium/locations/aridus/)
 {: .plainlinks}
 
