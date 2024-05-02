@@ -86,7 +86,7 @@ Middle Genesis (MG) was the intermediate period of Genesis.
 
 ### 1.04 billion BW
 
-- [Primoria](/compendium/locations/primoria/) formed from the [Cosmos](/compendium/locations/cosmos/).
+- Formation of [Primoria](/compendium/locations/primoria/) from the [Cosmos](/compendium/locations/cosmos/)
 
 ## Late Genesis
 914 million–10,001 BW
@@ -96,27 +96,37 @@ Late Genesis (LG) was the last period of Genesis.
 
 ### 739 million BW
 
-- The [Primordials](/compendium/life/primordials/) emerged in [Primoria](/compendium/locations/primoria/).
+- Emergence of [Primordials](/compendium/life/primordials/) in [Primoria](/compendium/locations/primoria/)
 
 ### 715 million BW
 
-- The [Primordial](/compendium/creatures/primordial/) was born in Primoria.
+- Birth of the [Primordial](/compendium/creatures/primordial/) in Primoria.
 
 ### 678 million BW
 
-- The Primordial colonized the [World](/compendium/locations/world/)'s upper mantle.
+- Colonization of the upper mantle of the [World](/compendium/locations/world/) by the Primordial
 
 ### 483 million BW
 
-- The Primordial formed the [World's ocean](/compendium/locations/world-ocean/).
+- Formation of the [World Ocean](/compendium/locations/world-ocean/) on the World by the Primordial
 
 ### 461 million BW
 
-- The Primordial formed the [Westlands](/compendium/locations/westlands/).
-  - The [Main Westlands](/compendium/locations/main-westlands/) formed.
-    - The [Westland Belt](/compendium/locations/westland-belt/) formed with its [central](/compendium/locations/central-belt/), [northern](/compendium/locations/northern-belt/), and [southern](/compendium/locations/southern-belt/) geographic regions.
-    - The [Wise Mountains](/compendium/locations/wise-mountains/) formed with its peak, [Wisemount](/compendium/locations/wisemount/).
-    - The [Heaven Lands](/compendium/locations/heaven-lands/) formed with its [valley](/compendium/locations/heaven-valley/) and [peninsula](/compendium/locations/heavens-peninsula/).
+- Formation of the [Westlands](/compendium/locations/westlands/) in the World Ocean by the Primordial
+  - [Main Westlands](/compendium/locations/main-westlands/)
+    - [Heaven Lands](/compendium/locations/heaven-lands/)
+      - [Heaven Valley](/compendium/locations/heaven-valley/)
+      - [Heaven's Peninsula](/compendium/locations/heavens-peninsula/)
+    - [Westland Belt](/compendium/locations/westland-belt/)
+      - [Central Belt](/compendium/locations/central-belt/)
+      - [Northern Belt](/compendium/locations/northern-belt/)
+      - [Southern Belt](/compendium/locations/southern-belt/)
+    - [Wise Mountains](/compendium/locations/wise-mountains/)
+      - Eastern Wise Mountains
+      - Northern Wise Mountains
+        - [Wisemount](/compendium/locations/wisemount/)
+          - Wisemount Caves
+      - Western Wise Mountains
 
 ### 460 million BW
 

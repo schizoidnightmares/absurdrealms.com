@@ -11,7 +11,7 @@ last_modified_at: May 2, 2024
 <div class="table right plainlinks" markdown=0>
   <table class="table full borders smallest">
     <tr><th colspan=2>Alpha Interstellar Region<br><small><a href="/compendium/locations/#interstellar-regions">Interstellar region</a></small></th></tr>
-    <tr><td colspan=2><img src="/assets/images/compendium/locations/alpha_interstellar_region_med.jpg" alt="Alpha Interstellar Region diagram"><div class="caption"><a href="/assets/images/compendium/locations/alpha_interstellar_region.jpg" target="_blank">Diagram</a> of the Alpha Region</div></td></tr>
+    <tr><td colspan=2><img src="/assets/images/compendium/locations/alpha_interstellar_region_med.jpg" alt="Alpha Interstellar Region map"><div class="caption"><a href="/assets/images/compendium/locations/alpha_interstellar_region.jpg" target="_blank">Map</a> of the Alpha Region</div></td></tr>
     <tr><th>Alias(es)</th><td>Alpha Region · Alphomega</td></tr>
     <tr><th>Formation</th><td><a href="/compendium/events/genesis/#136-billion-bw">1.36 billion BW</a> (<a href="/compendium/events/genesis/#middle-genesis">MG</a>)</td></tr>
     <tr><th><a href="/compendium/locations/">Location</a></th><td><a href="/compendium/locations/alpha-arm/">Alpha Arm</a></td></tr>
@@ -20,4 +20,4 @@ last_modified_at: May 2, 2024
   </table>
 </div>
 
-The **Alpha Interstellar Region**, simply the **Alpha Region** and also **Alphomega**, is a [region](/compendium/locations/#interstellar-regions) of the [Alpha Arm](/compendium/locations/alpha-arm/).
+The **Alpha Interstellar Region**, simply the **Alpha Region** and alternatively **Alphomega**, is a [region](/compendium/locations/#interstellar-regions) of the [Alpha Arm](/compendium/locations/alpha-arm/).
