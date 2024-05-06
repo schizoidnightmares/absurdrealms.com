@@ -1,7 +1,7 @@
 ---
 title: Genesis - Events - Compendium
 description: Events before Man
-last_modified_at: May 5, 2024
+last_modified_at: May 6, 2024
 layout: header
 header: compendium/events/genesis_placeholder_blur.jpg
 header-title: Genesis
@@ -165,12 +165,11 @@ Late Genesis (LG) was the last period of Genesis.
           - [Orange Narrow](/compendium/locations/orange-narrow/)
           - [Orange Opening](/compendium/locations/orange-opening/)
       - [White Canyons](/compendium/locations/white-canyons/)
-
-- The World Ocean's four oceanic divisions formed.
-  - The [Central Ocean](/compendium/locations/central-ocean/) formed.
-  - The [Far Ocean](/compendium/locations/far-ocean/) formed.
-  - The [Northern Ocean](/compendium/locations/northern-ocean/) formed.
-  - The [Southern Ocean](/compendium/locations/southern-ocean/) formed.
+- Division of the World Ocean
+  - [Central Ocean](/compendium/locations/central-ocean/)
+  - [Far Ocean](/compendium/locations/far-ocean/)
+  - [Northern Ocean](/compendium/locations/northern-ocean/)
+  - [Southern Ocean](/compendium/locations/southern-ocean/)
 
 ### 431 million BW
 
