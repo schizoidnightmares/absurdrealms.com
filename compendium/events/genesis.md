@@ -1,7 +1,7 @@
 ---
 title: Genesis - Events - Compendium
 description: Events before Man
-last_modified_at: May 2, 2024
+last_modified_at: May 5, 2024
 layout: header
 header: compendium/events/genesis_placeholder_blur.jpg
 header-title: Genesis
@@ -12,6 +12,8 @@ main-url: /compendium/
 return: Events
 return-url: /compendium/events/
 ---
+
+{% include wip.html %}
 
 **Genesis** was the era before Prehistory, spanning all that came before Man, as far back as the beginning of the [universe](/compendium/locations/universe/).
 
@@ -130,8 +132,8 @@ Late Genesis (LG) was the last period of Genesis.
 
 ### 460 million BW
 
-- Formation of [Heaven River](/compendium/locations/heaven-river/) from the emergence of [Heaven's Spring](/compendium/locations/heavens-spring/)
-  - Formation of [Heaven Falls](/compendium/locations/heaven-falls/)
+- Formation of [Heaven River](/compendium/locations/heaven-river/) in the Heaven Lands from the emergence of [Heaven's Spring](/compendium/locations/heavens-spring/) in Heaven Valley
+  - Formation of [Heaven Falls](/compendium/locations/heaven-falls/) on Heaven River in Heaven Valley
 - Formation of [Aridus](/compendium/locations/aridus/) in the Main Westlands by wind erosion
   - [Central Aridus](/compendium/locations/central-aridus/)
   - [Northern Aridus](/compendium/locations/northern-aridus/)
@@ -139,22 +141,30 @@ Late Genesis (LG) was the last period of Genesis.
 
 ### 432 million BW
 
-- The Primordial formed the [Eastlands](/compendium/locations/eastlands/).
-  - The [Main Eastlands](/compendium/locations/main-eastlands/) formed.
-    - The [Eastland Canyons](/compendium/locations/eastland-canyons/) formed with its [central](/compendium/locations/orange-canyons/), [northern](/compendium/locations/white-canyons/), and [southern](/compendium/locations/brown-canyons/) geographic regions.
-      - The [Orange Gorge](/compendium/locations/orange-gorge/) formed in the Orange Canyons.
-        - The [Orange Narrow](/compendium/locations/orange-narrow/) formed.
-        - The [Orange Opening](/compendium/locations/orange-opening/) formed.
-    - The [Eastland Badlands](/compendium/locations/eastland-badlands/) formed with its [central](/compendium/locations/central-badlands/), [northern](/compendium/locations/northern-badlands/), and [southern](/compendium/locations/southern-badlands/) geographic regions.
-  - [King's Island](/compendium/locations/kings-island/) formed.
-    - The [Dragonhead](/compendium/locations/dragonhead/) and [Dragonclaw](/compendium/locations/dragonclaw/) peninsulas formed.
-    - [King's Bay](/compendium/locations/kings-bay/) formed.
-    - The [Western Plateau](/compendium/locations/western-plateau/) formed.
-    - [King's Island Central](/compendium/locations/kings-island-central/) formed.
-      - [King's Mount](/compendium/locations/kings-mount/) formed.
-    - The [Eastern Plateau](/compendium/locations/eastern-plateau/) formed.
-    - The [Maidenhead](/compendium/locations/maidenhead/) and [Dragontail](/compendium/locations/dragontail/) peninsulas formed.
-    - [Maiden's Bay](/compendium/locations/maidens-bay/) formed.
+- Formation of the [Eastlands](/compendium/locations/eastlands/) in the World Ocean by the Primordial
+  - [King's Island](/compendium/locations/kings-island/)
+    - [Dragonclaw](/compendium/locations/dragonclaw/)
+    - [Dragonhead](/compendium/locations/dragonhead/)
+    - [Dragontail](/compendium/locations/dragontail/)
+    - [Eastern Plateau](/compendium/locations/eastern-plateau/)
+    - [King's Island Central](/compendium/locations/kings-island-central/)
+      - [King's Mount](/compendium/locations/kings-mount/)
+    - [King's Bay](/compendium/locations/kings-bay/)
+    - [Maiden's Bay](/compendium/locations/maidens-bay/)
+    - [Maidenhead](/compendium/locations/maidenhead/)
+    - [Western Plateau](/compendium/locations/western-plateau/)
+  - [Main Eastlands](/compendium/locations/main-eastlands/)
+    - [Eastland Badlands](/compendium/locations/eastland-badlands/)
+      - [Central Badlands](/compendium/locations/central-badlands/)
+      - [Northern Badlands](/compendium/locations/northern-badlands/)
+      - [Southern Badlands](/compendium/locations/Southern-Badlands/)
+    - [Eastland Canyons](/compendium/locations/eastland-canyons/)
+      - [Brown Canyons](/compendium/locations/brown-canyons/)
+      - [Orange Canyons](/compendium/locations/orange-canyons/)
+        - [Orange Gorge](/compendium/locations/orange-gorge/)
+          - [Orange Narrow](/compendium/locations/orange-narrow/)
+          - [Orange Opening](/compendium/locations/orange-opening/)
+      - [White Canyons](/compendium/locations/white-canyons/)
 
 - The World Ocean's four oceanic divisions formed.
   - The [Central Ocean](/compendium/locations/central-ocean/) formed.
