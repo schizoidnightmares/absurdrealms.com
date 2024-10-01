@@ -1,6 +1,7 @@
 ---
 title: Bite Me - Flesh Run - Anthology I
 description: Eighth scene of Flesh Run
+last_modified_at: October 1, 2024
 layout: story
 header: anthology-i/flesh-run/bite_me_placeholder_blur.jpg
 header-title: Bite Me
@@ -30,7 +31,7 @@ While the membrane absorbs the blood, *Lucky* picks up one of *Bold*’s severed
 
 We both watch the first row of jaws open and close. *Lucky* raises their hand towards it, bouncing their hand in tempo. They squeeze my arm, then place their hand on my shoulder — guiding me to the rhythm. I ready myself. They quickly and lightly push my shoulder as the jaws open. I step over the bottom row and reach the other side next to *Elbowed* and *Stung*. *Lucky* steps beside me, only but a moment later.
 
-The next row of jaws closes faster than the first pair. *Stung* leaps forward but trips their foot on one of the teeth. They fall into the succeeding third pair on the other side of the jaws. The third jaws clamps down with lethal force, tearing *Stung* into two across their waist. Stung screams and then abruptly dies.
+The next row of jaws closes faster than the first pair. *Stung* leaps forward but trips their foot on one of the teeth. They fall into the succeeding third pair on the other side of the jaws. The third jaws clamps down with lethal force, tearing *Stung* into two across their waist. *Stung* screams and then abruptly dies.
 
 The three of us stare silently and watch as their remains soon sink into the membrane. *Lucky* still holds one of *Bold*’s legs. After the jaws open, *Lucky* sticks one end between some teeth on the bottom row. The jaws crush down on the leg bone, effortlessly snapping it apart. Bone fragments spray at us, pushing *Elbowed* off-balance. They stick their arm out behind them to break their fall. The jaws behind us then bite *Elbowed*’s arm, completely severing it from their shoulder. Their voice violently shrieks — my ears ring in pain. They try to stop the bleeding with their other hand. *Lucky* and I look on helplessly, unable to move. *Elbowed* lays back and rests their head on the bottom row of teeth. The jaws close and crushes their face into their skull. Only a bloody pulp remains. Blood pools between the two jaws, covering our feet up to our ankles. It all then sinks away into the membrane floor.
 
