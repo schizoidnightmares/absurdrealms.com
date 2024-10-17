@@ -3,7 +3,7 @@ title: Flesh Run - Anthology I
 description: An adult newborn must face the trials of an enclosed hellish dimension of flesh
 last_modified_at: April 5, 2024
 layout: header
-header: anthology-i/flesh-run/flesh_run_placeholder_blur.jpg
+header: /assets/images/anthology-i/flesh-run/flesh_run_placeholder_blur.jpg
 header-title: Flesh Run
 header-subtitle: April 12–September 17, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/flesh_run_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/XDlpLMvyjx5a1IoOCV5B" target="_blank">SD 1.5</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

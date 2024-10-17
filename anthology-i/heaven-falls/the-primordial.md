@@ -3,7 +3,7 @@ title: The Primordial - Heaven Falls - Anthology I
 description: Second scene of Heaven Falls
 last_modified_at: March 26, 2024
 layout: story
-header: anthology-i/heaven-falls/the_primordial_placeholder_blur.jpg
+header: /assets/images/anthology-i/heaven-falls/the_primordial_placeholder_blur.jpg
 header-title: The Primordial
 header-subtitle: October 1, 2023
 caption: <a href="/assets/images/anthology-i/heaven-falls/the_primordial_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/x01e49kG3BBrhV7JY2qI" target="_blank">SDXL 1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

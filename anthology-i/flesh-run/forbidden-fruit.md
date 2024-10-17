@@ -2,7 +2,7 @@
 title: Forbidden Fruit - Flesh Run - Anthology I
 description: Fourth scene of Flesh Run
 layout: story
-header: anthology-i/flesh-run/forbidden_fruit_placeholder_blur.jpg
+header: /assets/images/anthology-i/flesh-run/forbidden_fruit_placeholder_blur.jpg
 header-title: Forbidden Fruit
 header-subtitle: May 12, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/forbidden_fruit_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/KRBr1KH949N8yJU6uNag" target="_blank">SD 1.5</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

@@ -2,7 +2,7 @@
 title: Rib Cage - Flesh Run - Anthology I
 description: Fifth scene of Flesh Run
 layout: story
-header: anthology-i/flesh-run/rib_cage_placeholder_blur.jpg
+header: /assets/images/anthology-i/flesh-run/rib_cage_placeholder_blur.jpg
 header-title: Rib Cage
 header-subtitle: May 19, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/rib_cage_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/BtlrGUceyvVlFz6g9XNv" target="_blank">SD 1.5</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

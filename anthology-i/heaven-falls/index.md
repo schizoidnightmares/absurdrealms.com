@@ -3,7 +3,7 @@ title: Heaven Falls - Anthology I
 description: The story of the founding of Heaven's Sanctuary
 last_modified_at: April 5, 2024
 layout: header
-header: anthology-i/heaven-falls/heaven_falls_placeholder_blur.jpg
+header: /assets/images/anthology-i/heaven-falls/heaven_falls_placeholder_blur.jpg
 header-title: Heaven Falls
 header-subtitle: September 30–October 2, 2023
 caption: <a href="/assets/images/anthology-i/heaven-falls/heaven_falls_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/J1SsnctcQcV9A6eme82l" target="_blank">SDXL 1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

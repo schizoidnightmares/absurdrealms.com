@@ -3,7 +3,7 @@ title: The Gorge - Anthology I
 description: The expedition of the HSS Heaven Sails to the other side of the world
 last_modified_at: April 5, 2024
 layout: header
-header: anthology-i/the-gorge/the_gorge_placeholder_blur.jpg
+header: /assets/images/anthology-i/the-gorge/the_gorge_placeholder_blur.jpg
 header-title: The Gorge
 header-subtitle: October 4–November 4, 2023
 caption: <a href="/assets/images/anthology-i/the-gorge/the_gorge_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/s4qK7NOZ5nVk1PMPJJDG" target="_blank">SDXL 1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

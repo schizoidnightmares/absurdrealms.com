@@ -3,7 +3,7 @@ title: The Valley - Heaven Falls - Anthology I
 description: Third and final scene of Heaven Falls
 last_modified_at: March 26, 2024
 layout: story
-header: anthology-i/heaven-falls/the_valley_placeholder_blur.jpg
+header: /assets/images/anthology-i/heaven-falls/the_valley_placeholder_blur.jpg
 header-title: The Valley
 header-subtitle: October 2, 2023
 caption: <a href="/assets/images/anthology-i/heaven-falls/the_valley_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/x91VvmI0OpuEBemZ5AHy" target="_blank">SDXL 1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

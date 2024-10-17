@@ -3,7 +3,7 @@ title: Exodus - Anthology I
 description: The rapidly expanding Heaven's Empire threatens the future of the King's Republic
 last_modified_at: April 5, 2024
 layout: header
-header: anthology-i/exodus/exodus_placeholder_blur.jpg
+header: /assets/images/anthology-i/exodus/exodus_placeholder_blur.jpg
 header-title: Exodus
 header-subtitle: February 27, 2024–present
 caption: <a href="/assets/images/anthology-i/exodus/exodus_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/ug6ks9QVNGEOM3MDgD6M" target="_blank">SDXL 1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

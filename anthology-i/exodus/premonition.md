@@ -2,7 +2,7 @@
 title: Premonition - Exodus - Anthology I
 description: Second scene of Exodus
 layout: story
-header: anthology-i/exodus/premonition_placeholder_blur.jpg
+header: /assets/images/anthology-i/exodus/premonition_placeholder_blur.jpg
 header-title: Premonition
 header-subtitle: April 5, 2024
 caption: <a href="/assets/images/anthology-i/exodus/premonition_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/ghrWAZc38NiRP4psCvOM" target="_blank">Juggernaut XL 8.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

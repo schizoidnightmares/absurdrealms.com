@@ -2,7 +2,7 @@
 title: Fleshed Out - Flesh Run - Anthology I
 description: Ninth and final scene of Flesh Run
 layout: story
-header: anthology-i/flesh-run/fleshed_out_placeholder_blur.jpg
+header: /assets/images/anthology-i/flesh-run/fleshed_out_placeholder_blur.jpg
 header-title: Fleshed Out
 header-subtitle: September 17, 2023
 caption: <a href="/assets/images/anthology-i/flesh-run/fleshed_out_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/2fIoR768ZFI2PrkToIGz" target="_blank">SD 1.5</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

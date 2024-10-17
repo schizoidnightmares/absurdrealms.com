@@ -2,7 +2,7 @@
 title: Heaven Sails - The Gorge - Anthology I
 description: Opening scene of The Gorge
 layout: story
-header: anthology-i/the-gorge/heaven_sails_placeholder_blur.jpg
+header: /assets/images/anthology-i/the-gorge/heaven_sails_placeholder_blur.jpg
 header-title: Heaven Sails
 header-subtitle: October 4, 2023
 caption: <a href="/assets/images/anthology-i/the-gorge/heaven_sails_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/qqcC6iQZ0Cy1yqphd97Z" target="_blank">SDXL 1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>

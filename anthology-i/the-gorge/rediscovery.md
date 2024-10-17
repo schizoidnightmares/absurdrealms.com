@@ -2,7 +2,7 @@
 title: Rediscovery - The Gorge - Anthology I
 description: Seventh scene of The Gorge
 layout: story
-header: anthology-i/the-gorge/rediscovery_placeholder_blur.jpg
+header: /assets/images/anthology-i/the-gorge/rediscovery_placeholder_blur.jpg
 header-title: Rediscovery
 header-subtitle: November 4, 2023
 caption: <a href="/assets/images/anthology-i/the-gorge/rediscovery_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/h4jPQ7wqzzzTRzrIXxGw" target="_blank">SDXL 1.0</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
