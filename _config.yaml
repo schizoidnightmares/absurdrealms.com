@@ -94,7 +94,7 @@ feed:
   posts_limit: 7
 
 # site variables
-custom_icon: /assets/images/ar_icon_small.png
+custom_icon: /assets/images/ar_icon_2024_small.png
 
 # also add the plugins in the Gemfile if they have a gem
 # use gem uninstall to remove unwanted gems
