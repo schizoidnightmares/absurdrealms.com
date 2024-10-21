@@ -1,11 +1,11 @@
 ---
 title: Gallery
 description: A gallery of images present on the website
-last_modified_at: October 18, 2024
+last_modified_at: October 21, 2024
 ---
 
 # Gallery
-38 images in total
+39 images in total
 {: .cap}
 
 A gallery of the images present on the website
@@ -20,7 +20,7 @@ A gallery of the images present on the website
 {: .toc}
 
 ## Schizoid Nightmares
-3 images
+4 images
 {: .cap}
 
 Artwork by Schizoid Nightmares (not including placeholders)
