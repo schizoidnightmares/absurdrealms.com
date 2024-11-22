@@ -1,7 +1,7 @@
 ---
 title: Gallery
 description: A gallery of images present on the website
-last_modified_at: October 21, 2024
+last_modified_at: November 22, 2024
 ---
 
 # Gallery
@@ -23,7 +23,7 @@ A gallery of the images present on the website
 4 images
 {: .cap}
 
-Artwork by Schizoid Nightmares (not including placeholders)
+Artwork by Schizoid Nightmares (not including placeholders), <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 {% include gallery.html author="SN" %}
 
@@ -31,7 +31,7 @@ Artwork by Schizoid Nightmares (not including placeholders)
 2 images
 {: .cap}
 
-Artwork by <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot</a> as paid commissions
+Artwork by <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot</a> as paid commissions (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>)
 
 {% include gallery.html author="Vlad Momot" %}
 
@@ -45,7 +45,7 @@ Artwork by authors who wish to remain uncredited
 1 image
 {: .cap}
 
-Uncredited paid commissions
+Uncredited paid commissions (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>)
 
 {% include gallery.html author="Uncredited paid" %}
 
@@ -59,7 +59,7 @@ Artwork used temporarily until professional work is produced
 2 images
 {: .cap}
 
-Amateur placeholder art created by Schizoid Nightmares, derived from AI
+Amateur placeholder art created by Schizoid Nightmares, derived from AI (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>)
 
 {% include gallery.html author="AID" %}
 
