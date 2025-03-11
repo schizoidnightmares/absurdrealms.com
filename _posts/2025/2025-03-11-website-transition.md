@@ -1,6 +1,6 @@
 ---
 title: Website transition
-description: I am moving this website and the vast majority of its contents to schizoidnightmares.com.
+description: I am moving this website and the vast majority of its contents to schizoidnightmares.com
 ---
 
 I am moving this website and the vast majority of its contents to <a href="https://schizoidnightmares.com/absurd-realms/" target="_blank">schizoidnightmares.com</a>.
